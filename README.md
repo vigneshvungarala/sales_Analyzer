@@ -1,11 +1,10 @@
-# sales_Analyzer
-Sales Data Analyzer
+# Sales Data Analyzer
 
-Overview
+## Overview
 
 Sales Data Analyzer is a Python-based automation tool that processes sales data, extracts key insights, and generates structured reports. It helps businesses streamline sales analysis and make data-driven decisions efficiently.
 
-Features
+## Features
 
 Automated Data Processing: Cleans and preprocesses raw sales data.
 
@@ -15,17 +14,17 @@ Report Generation: Exports analysis results in CSV, Excel, and text formats.
 
 Data Visualization: Generates bar charts in Excel for better understanding.
 
-Technologies Used
+## Technologies Used
 
-Python
+**Python**
 
-Pandas & NumPy (Data Analysis)
+**Pandas & NumPy** (Data Analysis)
 
-OpenPyXL (Excel Processing & Charts)
+**OpenPyXL** (Excel Processing & Charts)
 
-Installation
+## Installation
 
-Clone the repository:
+**Clone the repository:**
 
 git clone https://github.com/yourusername/SalesDataAnalyzer.git
 
@@ -37,11 +36,11 @@ Install required dependencies:
 
 pip install -r requirements.txt
 
-Usage
+## Usage
 
 Place your sales dataset (CSV format) in the project folder.
 
-Run the script:
+**Run the script:**
 
 python sales_analyzer.py
 
@@ -49,15 +48,15 @@ Enter the dataset file path when prompted.
 
 Reports will be generated in the project directory.
 
-Output Files
+## Output Files
 
-Sales_Summary_Report.csv - Key sales insights in CSV format.
+**Sales_Summary_Report.csv** - Key sales insights in CSV format.
 
-Sales_Report.xlsx - Excel file with raw data and bar charts.
+**Sales_Report.xlsx** - Excel file with raw data and bar charts.
 
-Sales_Insights.txt - Text report with summarized insights.
+**Sales_Insights.txt** - Text report with summarized insights.
 
-Future Enhancements
+## Future Enhancements
 
 Integration with databases and cloud storage.
 
@@ -65,6 +64,6 @@ Real-time data visualization dashboards.
 
 Predictive analytics for sales forecasting.
 
-Contributing
+## Contributing
 
 Feel free to fork the repository, create new branches, and submit pull requests for improvements.
