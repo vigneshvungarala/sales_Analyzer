@@ -1,4 +1,0 @@
-Total Sales: 0
-Best-Selling Product: Data Unavailable
-Worst-Selling Product: Data Unavailable
-Top Region: Data Unavailable
