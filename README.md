@@ -6,13 +6,13 @@ Sales Data Analyzer is a Python-based automation tool that processes sales data,
 
 ## Features
 
-Automated Data Processing: Cleans and preprocesses raw sales data.
+**Automated Data Processing:** Cleans and preprocesses raw sales data.
 
-Sales Insights: Identifies top-performing products and regions.
+**Sales Insights:** Identifies top-performing products and regions.
 
-Report Generation: Exports analysis results in CSV, Excel, and text formats.
+**Report Generation:** Exports analysis results in CSV, Excel, and text formats.
 
-Data Visualization: Generates bar charts in Excel for better understanding.
+**Data Visualization:** Generates bar charts in Excel for better understanding.
 
 ## Technologies Used
 
@@ -22,15 +22,17 @@ Data Visualization: Generates bar charts in Excel for better understanding.
 
 **OpenPyXL** (Excel Processing & Charts)
 
+**Matplotlib** (Data Visualization)
+
 ## Installation
 
 **Clone the repository:**
 
-git clone https://github.com/yourusername/SalesDataAnalyzer.git
+git clone https://github.com/username/sales_Analyzer.git
 
 **Navigate to the project folder:**
 
-cd SalesDataAnalyzer
+cd sales_Analyzer
 
 **Install required dependencies:**
 
@@ -67,3 +69,4 @@ Predictive analytics for sales forecasting.
 ## Contributing
 
 Feel free to fork the repository, create new branches, and submit pull requests for improvements.
+
