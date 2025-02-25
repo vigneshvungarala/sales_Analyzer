@@ -28,11 +28,11 @@ Data Visualization: Generates bar charts in Excel for better understanding.
 
 git clone https://github.com/yourusername/SalesDataAnalyzer.git
 
-Navigate to the project folder:
+**Navigate to the project folder:**
 
 cd SalesDataAnalyzer
 
-Install required dependencies:
+**Install required dependencies:**
 
 pip install -r requirements.txt
 
