@@ -1,0 +1,1031 @@
+Order_ID,Product,Region,Sales_Rep,Quantity,Unit_Price,Total_Sales,Order_Date,Payment_Method,Status
+1001,Mouse,West,Frank,4,1111.79,4447.16,2023-12-18,PayPal,Pending
+1002,Headphones,East,Alice,10,448.7,4487.0,2023-08-25,Debit Card,Pending
+1003,Printer,East,Charlie,7,547.85,3834.9500000000003,2023-07-13,PayPal,Cancelled
+1004,Monitor,East,,1,626.6,626.6,2023-10-14,Debit Card,Cancelled
+1005,Mouse,North,Alice,17,1207.91,20534.47,2023-09-16,,Completed
+1006,Tablet,,David,2,113.98,227.96,2023-09-03,Bank Transfer,Cancelled
+1007,Mouse,South,Bob,11,1290.28,14193.08,2023-05-16,Cash,Completed
+1008,Printer,North,Charlie,9,760.49,6844.41,2023-10-07,PayPal,Pending
+1009,Monitor,East,Eva,7,625.72,4380.04,2023-09-28,PayPal,Cancelled
+1010,Headphones,North,Eva,17,1765.02,30005.34,2023-06-20,Bank Transfer,Cancelled
+1011,Printer,East,Alice,17,947.0,16099.0,2023-06-08,PayPal,Cancelled
+1012,Printer,East,David,2,235.35,470.7,2023-07-20,Credit Card,Pending
+1013,Tablet,North,,6,1662.16,9972.960000000001,2023-02-14,Bank Transfer,Completed
+1014,Keyboard,,Eva,14,142.9,2000.6000000000001,2023-09-21,Credit Card,Pending
+1015,Monitor,East,Charlie,6,1467.16,8802.960000000001,2023-03-12,Bank Transfer,Pending
+1016,Smartphone,West,Bob,2,1559.12,3118.24,2023-12-30,PayPal,Cancelled
+1017,Printer,South,Charlie,1,737.58,737.58,2023-04-13,Credit Card,Completed
+1018,Keyboard,East,Frank,10,1658.34,16583.399999999998,2023-05-05,,Pending
+1019,Smartphone,West,Frank,5,1055.54,5277.7,2023-11-09,Bank Transfer,Cancelled
+1020,Monitor,West,Bob,2,953.42,1906.84,2023-10-13,PayPal,Pending
+1021,Laptop,South,Eva,16,138.54,2216.64,2023-08-18,Credit Card,Pending
+1022,Keyboard,West,Bob,2,615.56,1231.12,2023-05-26,Credit Card,Cancelled
+1023,Camera,West,David,10,1865.47,18654.7,2023-07-16,PayPal,Cancelled
+1024,Laptop,South,Frank,2,814.06,1628.12,2023-08-09,Debit Card,Completed
+1025,Tablet,East,Alice,16,1116.07,17857.12,2023-03-01,Bank Transfer,Pending
+1026,Mouse,West,Alice,128,1087.44,17399.04,2023-04-08,Bank Transfer,Cancelled
+1027,Headphones,West,,19,1201.34,22825.46,2023-06-20,PayPal,Cancelled
+1028,Camera,West,David,7,169.6,1187.2,2023-06-22,Debit Card,Completed
+1029,Tablet,North,Charlie,12,756.24,9074.880000000001,2023-05-31,,Completed
+1030,Monitor,,David,15,1460.1,21901.5,2023-12-16,Cash,Cancelled
+1031,Tablet,North,Alice,8,441.09,3528.72,2023-05-02,Cash,Completed
+1032,Mouse,South,Alice,6,446.98,2681.88,2023-04-18,PayPal,Cancelled
+1033,Monitor,East,Frank,10,69.68,696.8000000000001,2023-01-04,Debit Card,Pending
+1034,Camera,East,David,3,903.09,2709.27,2023-04-03,,Completed
+1035,Mouse,West,David,19,1771.33,33655.27,2023-01-06,Bank Transfer,Pending
+1036,Smartphone,South,Alice,17,151.21,2570.57,2023-10-15,Credit Card,Pending
+1037,Headphones,East,Charlie,7,422.68,2958.76,2023-04-16,Debit Card,Pending
+1038,Camera,South,Eva,4,654.66,2618.64,2023-05-26,Cash,Cancelled
+1039,Smartphone,East,Eva,14,9157.08,20676.039999999997,2023-09-28,,Pending
+1040,Camera,North,David,15,1299.24,19488.6,2023-04-06,Credit Card,Pending
+1041,Monitor,East,Eva,8,861.09,6888.72,2023-08-17,PayPal,Pending
+1042,Smartphone,North,Alice,15,1530.18,22952.7,2023-07-21,Debit Card,Cancelled
+1043,Headphones,East,Alice,14,1238.78,17342.92,2023-07-31,PayPal,Pending
+1044,Mouse,West,David,9,1797.28,16175.52,2023-01-06,Debit Card,Pending
+1045,Printer,,David,8,1645.15,13161.2,2023-04-22,Bank Transfer,Completed
+1046,Tablet,East,Frank,17,542.99,9230.83,2023-11-19,PayPal,Cancelled
+1047,Laptop,West,David,2,579.31,1158.62,2023-04-16,PayPal,Pending
+1048,Headphones,North,Charlie,3,294.45,883.3499999999999,2023-05-19,Cash,Completed
+1049,Smartphone,West,Eva,8,707.08,5656.64,2023-10-26,PayPal,Cancelled
+1050,Printer,,David,12,1999.11,23989.32,2023-04-06,Debit Card,Cancelled
+1051,Headphones,South,Bob,1,841.21,841.21,2023-12-03,Cash,Cancelled
+1052,Smartphone,North,Frank,10,479.95,4799.5,2023-10-24,PayPal,Cancelled
+1053,Keyboard,East,Bob,3,1536.84,4610.5199999999995,2023-08-02,PayPal,Cancelled
+1054,Keyboard,North,Alice,6,7730.49,6646.92,2023-10-18,Bank Transfer,Cancelled
+1055,Headphones,West,Eva,7,341.72,2392.04,2023-01-22,PayPal,Pending
+1056,Keyboard,East,David,18,792.34,14262.12,2023-07-12,Credit Card,Pending
+1057,Smartphone,South,Bob,11,858.22,9440.42,2023-05-30,Cash,Pending
+1058,Smartphone,East,Eva,19,1519.97,28879.43,2023-09-04,Credit Card,Pending
+1059,Headphones,South,Alice,5,90.31,451.55,2023-09-24,Cash,Completed
+1060,Printer,East,Charlie,19,574.59,10917.210000000001,2023-09-08,Bank Transfer,Pending
+1061,Mouse,East,Frank,11,1059.31,11652.41,2023-01-03,PayPal,Cancelled
+1062,Camera,East,Eva,12,574.25,6891.0,2023-11-12,PayPal,Pending
+1063,Printer,West,Eva,10,1275.45,12754.5,2023-03-17,PayPal,Pending
+1064,Monitor,West,Charlie,8,989.64,7917.12,2023-03-28,Cash,Cancelled
+1065,Smartphone,North,Eva,9,755.33,6797.97,2023-09-27,PayPal,Pending
+1066,Monitor,North,Alice,4,1900.96,7603.84,2023-08-13,Credit Card,Pending
+1067,Printer,South,Alice,5,1282.71,6413.55,2023-01-18,PayPal,Pending
+1068,Camera,West,Charlie,8,303.39,2427.12,2023-04-23,Bank Transfer,Completed
+1069,Camera,South,Frank,9,1142.18,10279.62,2023-09-08,Credit Card,Pending
+1070,Laptop,North,David,15,1572.43,23586.45,2023-08-21,PayPal,Cancelled
+1071,Camera,South,Bob,15,1431.55,21473.25,2023-11-25,PayPal,Cancelled
+1072,Mouse,North,,16,385.57,6169.12,2023-10-06,Debit Card,Pending
+1073,Camera,West,Eva,14,1946.22,27247.08,2023-07-21,Cash,Pending
+1074,Printer,East,Bob,8,925.19,7401.52,2023-03-24,Credit Card,Pending
+1075,Laptop,West,Charlie,18,360.1,6481.8,2023-05-05,Debit Card,Cancelled
+1076,Printer,South,,10,401.38,4013.8,2023-06-24,Bank Transfer,Cancelled
+1077,Printer,South,Frank,6,241.56,1449.3600000000001,2023-03-10,Cash,Completed
+1078,Tablet,West,Bob,12,1616.86,19402.32,2023-02-16,Credit Card,Completed
+1079,Laptop,West,Alice,2,287.96,575.92,2023-09-13,PayPal,Completed
+1080,Printer,North,Bob,7,293.99,2057.9300000000003,2023-08-03,Credit Card,Cancelled
+1081,Tablet,South,Eva,16,1708.42,27334.72,2023-01-30,PayPal,Completed
+1082,Tablet,South,Alice,3,721.98,2165.94,2023-10-08,Cash,Pending
+1083,Laptop,West,Charlie,13,110.17,1432.21,2023-08-25,PayPal,Pending
+1084,Monitor,East,Bob,3,151.2,453.59999999999997,2023-09-05,Bank Transfer,Cancelled
+1085,Mouse,South,David,18,327.23,5890.14,2023-01-25,PayPal,Completed
+1086,Camera,East,Frank,11,466.12,5127.32,2023-03-15,Bank Transfer,Pending
+1087,Mouse,West,David,8,1347.04,10776.32,2023-07-25,Cash,Cancelled
+1088,Camera,West,Frank,6,356.79,2140.7400000000002,2023-11-10,Cash,Completed
+1089,Printer,North,Eva,1,281.81,281.81,2023-04-04,Credit Card,Pending
+1090,Smartphone,South,David,1,1541.2,1541.2,2023-05-07,Bank Transfer,Completed
+1091,Laptop,East,Bob,8,1358.56,10868.48,2023-01-25,Bank Transfer,Cancelled
+1092,Mouse,North,Bob,5,898.88,4494.4,2023-11-30,Debit Card,Completed
+1093,Mouse,South,David,16,1121.15,17938.4,2023-12-21,Debit Card,Cancelled
+1094,Printer,,Bob,11,658.37,7242.07,2023-04-26,Debit Card,Completed
+1095,Monitor,West,Eva,5,990.88,4954.4,2023-02-17,,Pending
+1096,Tablet,South,Alice,4,1038.01,4152.04,2023-08-14,Debit Card,Cancelled
+1097,Printer,North,Eva,6,805.11,4830.66,2023-09-23,,Cancelled
+1098,Keyboard,,Frank,14,1817.82,25449.48,2023-04-09,,Cancelled
+1099,Tablet,East,Eva,19,81.32,1545.08,2023-01-11,Cash,Completed
+1100,Laptop,North,Frank,9,1575.23,14177.07,2023-03-26,Credit Card,Completed
+1101,Tablet,South,Bob,12,292.55,3510.6000000000004,2023-08-02,Debit Card,Pending
+1102,Monitor,South,Alice,11,1605.22,17657.420000000002,2023-06-22,Cash,Cancelled
+1103,Tablet,East,Bob,14,1251.03,17514.42,2023-07-28,Bank Transfer,Cancelled
+1104,Laptop,South,Charlie,16,1694.39,27110.24,2023-03-05,Credit Card,Completed
+1105,Monitor,West,Bob,1,240.15,240.15,2023-09-15,Cash,Completed
+1106,Mouse,South,Frank,13,1140.01,14820.13,2023-11-28,Credit Card,Pending
+1107,Mouse,South,Bob,13,1027.12,13352.559999999998,2023-05-01,Debit Card,Pending
+1108,Camera,North,Bob,2,1427.08,2854.16,2023-10-25,,Completed
+1109,Tablet,North,Alice,4,1091.87,4367.48,2023-02-23,Credit Card,Cancelled
+1110,Mouse,South,,6,1104.43,6626.58,2023-11-27,Cash,Pending
+1111,Laptop,East,,5,887.71,4438.55,2023-09-29,Debit Card,Completed
+1112,Headphones,North,David,3,652.23,1956.69,2023-08-29,Debit Card,Completed
+1113,Headphones,East,Charlie,1,990.42,990.42,2023-08-31,Cash,Cancelled
+1114,Monitor,South,Alice,4,281.06,1124.24,2023-01-18,Cash,Completed
+1115,Mouse,South,Frank,2,1924.95,3849.9,2023-07-06,Credit Card,Completed
+1116,Mouse,West,David,5,1443.1,7215.5,2023-12-12,,Pending
+1117,Headphones,,,3,1907.31,5721.93,2023-05-24,Debit Card,Completed
+1118,Mouse,South,Alice,9,492.12,4429.08,2023-09-19,Credit Card,Completed
+1119,Tablet,West,Charlie,6,1764.71,10588.26,2023-12-30,Cash,Pending
+1120,Keyboard,North,Frank,18,1627.14,29288.52,2023-08-27,Credit Card,Cancelled
+1121,Smartphone,South,Eva,6,1370.45,8222.7,2023-10-31,Cash,Cancelled
+1122,Camera,South,Eva,19,1268.81,24107.39,2023-10-25,Bank Transfer,Pending
+1123,Monitor,North,Alice,12,667.27,8007.24,2023-03-17,Cash,Pending
+1124,Keyboard,North,Bob,11,1642.0,18062.0,2023-07-07,Cash,Cancelled
+1125,Headphones,North,Frank,2,1027.96,2055.92,2023-11-29,Cash,Cancelled
+1126,Mouse,South,David,15,188.24,2823.6000000000004,2023-09-03,PayPal,Cancelled
+1127,Camera,South,Bob,12,660.08,7920.960000000001,2023-05-10,Cash,Cancelled
+1128,Mouse,West,Bob,12,1873.83,22485.96,2023-11-11,Debit Card,Cancelled
+1129,Laptop,East,Frank,9,1708.83,15379.47,2023-10-10,Debit Card,Pending
+1130,Laptop,North,Alice,2,1964.72,3929.44,2023-03-20,Credit Card,Completed
+1131,Camera,South,Alice,3,1274.59,3823.7699999999995,2023-03-13,PayPal,Cancelled
+1132,Camera,South,,12,532.64,6391.68,2023-09-20,Credit Card,Cancelled
+1133,Headphones,North,Alice,16,367.49,5879.84,2023-07-10,Debit Card,Completed
+1134,Camera,East,Eva,1,414.48,414.48,2023-03-04,Debit Card,Completed
+1135,Tablet,North,Alice,3,88.6,265.79999999999995,2023-01-12,Bank Transfer,Completed
+1136,Mouse,East,Eva,2,811.83,1623.66,2023-05-21,Cash,Completed
+1137,Keyboard,South,Eva,9,423.28,3809.5199999999995,2023-09-11,,Completed
+1138,Printer,East,Alice,19,852.73,16201.87,2023-02-12,Credit Card,Completed
+1139,Camera,West,Charlie,15,1873.24,28098.6,2023-01-17,Credit Card,Pending
+1140,Monitor,South,David,18,889.55,16011.9,2023-03-04,Cash,Completed
+1141,Laptop,West,Bob,11,6070.04,19382.77,2023-09-10,Cash,Completed
+1142,Tablet,North,Eva,16,1230.73,19691.68,2023-10-19,Bank Transfer,Pending
+1143,Printer,North,Frank,17,531.91,9042.47,2023-01-08,PayPal,Completed
+1144,Keyboard,North,Frank,5,743.92,3719.6,2023-11-21,Credit Card,Cancelled
+1145,Printer,East,David,12,213.64,2563.68,2023-03-31,Cash,Cancelled
+1146,Camera,South,Frank,11,700.25,7702.75,2023-07-27,Credit Card,Completed
+1147,Headphones,North,Charlie,15,1371.2,20568.0,2023-10-19,Cash,Pending
+1148,Laptop,North,Frank,3,190.62,571.86,2023-10-11,Debit Card,Cancelled
+1149,Laptop,South,Bob,1,450.53,450.53,2023-04-28,Credit Card,Pending
+1150,Headphones,North,Bob,16,793.81,12700.96,2023-12-15,,Cancelled
+1151,Mouse,West,Eva,2,1965.0,3930.0,2023-06-24,Credit Card,Completed
+1152,Smartphone,,Alice,2,1580.48,3160.96,2023-03-17,PayPal,Pending
+1153,Tablet,South,Charlie,3,1480.3,4440.9,2023-04-11,Bank Transfer,Pending
+1154,Laptop,South,Eva,8,276.57,2212.56,2023-05-31,Debit Card,Pending
+1155,Monitor,West,Charlie,181,1572.94,23594.100000000002,2023-09-27,Cash,Cancelled
+1156,Laptop,South,Alice,7,1581.27,11068.89,2023-03-12,PayPal,Cancelled
+1157,Printer,West,Frank,6,1222.15,7332.900000000001,2023-06-29,Credit Card,Cancelled
+1158,Laptop,South,Frank,9,1981.21,17830.89,2023-05-04,Debit Card,Completed
+1159,Laptop,East,Alice,1,684.25,684.25,2023-10-20,Credit Card,Cancelled
+1160,Smartphone,North,Eva,8,1885.48,15083.84,2023-10-12,Credit Card,Completed
+1161,Smartphone,East,Alice,3,1833.73,5501.1900000000005,2023-07-14,Credit Card,Pending
+1162,Keyboard,North,David,4,72.39,289.56,2023-08-16,Bank Transfer,Pending
+1163,Mouse,West,Bob,15,927.73,13915.95,2023-10-02,Bank Transfer,Completed
+1164,Monitor,East,Eva,6,1955.35,11732.099999999999,2023-04-16,Cash,Cancelled
+1165,Laptop,South,Charlie,15,251.09,3766.35,2023-01-21,Debit Card,Completed
+1166,Laptop,North,David,3,1118.18,3354.54,2023-03-05,PayPal,Pending
+1167,Tablet,North,Eva,14,1958.97,27425.58,2023-06-14,PayPal,Pending
+1168,Smartphone,East,Alice,14,1133.22,15865.08,2023-01-27,PayPal,Completed
+1169,Monitor,West,Alice,4,420.14,1680.56,2023-11-07,Credit Card,Cancelled
+1170,Keyboard,East,,12,1185.26,14223.119999999999,2023-10-12,Bank Transfer,Cancelled
+1171,Mouse,West,Alice,17,448.66,7627.22,2023-05-28,,Completed
+1172,Headphones,West,Charlie,7,1063.42,7443.9400000000005,2023-10-08,Credit Card,Completed
+1173,Mouse,North,David,9,194.38,1749.42,2023-11-22,Bank Transfer,Cancelled
+1174,Printer,East,Frank,3,1230.69,3692.07,2023-11-15,,Pending
+1175,Laptop,East,Bob,13,1057.74,13750.62,2023-06-13,Debit Card,Completed
+1176,Keyboard,West,Charlie,15,1493.31,22399.649999999998,2023-08-12,Debit Card,Cancelled
+1177,Printer,East,Charlie,18,1279.87,23037.659999999996,2023-09-29,Debit Card,Cancelled
+1178,Monitor,South,Frank,19,1121.73,21312.87,2023-05-26,Credit Card,Pending
+1179,Headphones,South,Frank,1,1395.07,1395.07,2023-12-22,Cash,Pending
+1180,Smartphone,,Bob,6,330.69,1984.1399999999999,2023-01-30,Debit Card,Pending
+1181,Keyboard,East,Bob,2,1210.95,2421.9,2023-02-14,Cash,Pending
+1182,Keyboard,West,Frank,14,385.62,5398.68,2023-10-02,Credit Card,Pending
+1183,Laptop,South,Alice,6,1854.77,11128.619999999999,2023-02-03,Cash,Completed
+1184,Camera,South,Charlie,482,183.25,2565.5,2023-05-21,PayPal,Cancelled
+1185,Keyboard,North,Eva,4,889.23,3556.92,2023-11-14,Cash,Completed
+1186,Tablet,West,Bob,8,1406.81,11254.48,2023-08-09,Debit Card,Completed
+1187,Headphones,North,Bob,3,943.14,2829.42,2023-12-22,Credit Card,Completed
+1188,Headphones,South,Frank,19,229.59,4362.21,2023-01-22,Debit Card,Completed
+1189,Tablet,West,David,14,1129.09,15807.259999999998,2023-06-29,PayPal,Completed
+1190,Tablet,East,Eva,17,1301.18,22120.06,2023-11-25,Debit Card,Pending
+1191,Tablet,West,Eva,8,1422.4,11379.2,2023-08-19,Debit Card,Pending
+1192,Headphones,East,Bob,14,777.86,10890.04,2023-02-07,Debit Card,Cancelled
+1193,Mouse,East,Alice,6,1149.14,6894.84,2023-03-11,Bank Transfer,Completed
+1194,Headphones,West,David,16,928.84,14861.44,2023-04-26,PayPal,Cancelled
+1195,Camera,East,Eva,19,1360.51,25849.69,2023-08-27,Debit Card,Pending
+1196,Laptop,North,Bob,14,1187.94,16631.16,2023-12-01,Debit Card,Pending
+1197,Printer,South,Eva,19,1075.22,20429.18,2023-05-28,,Pending
+1198,Mouse,East,David,3,536.57,1609.71,2023-01-09,Credit Card,Completed
+1199,Smartphone,North,David,10,53.94,539.4,2023-10-15,Bank Transfer,Completed
+1200,Printer,East,Charlie,19,389.46,7399.74,2023-02-19,Credit Card,Pending
+1201,Laptop,South,Frank,9,278.28,2504.5199999999995,2023-12-04,Bank Transfer,Cancelled
+1202,Camera,North,Frank,13,925.72,12034.36,2023-01-05,Debit Card,Cancelled
+1203,Camera,South,Bob,7,1243.9,8707.300000000001,2023-12-09,PayPal,Pending
+1204,Smartphone,South,David,14,465.52,6517.28,2023-05-06,Cash,Cancelled
+1205,Mouse,North,Charlie,9,1881.16,16930.440000000002,2023-03-16,Cash,Pending
+1206,Tablet,North,Charlie,19,63.03,1197.57,2023-06-14,Debit Card,Cancelled
+1207,Mouse,North,,15,1555.99,23339.85,2023-10-05,Credit Card,Pending
+1208,Camera,West,Eva,14,1269.15,17768.100000000002,2023-11-20,PayPal,Cancelled
+1209,Headphones,North,Charlie,6,778.43,4670.58,2023-10-27,Bank Transfer,Completed
+1210,Laptop,North,Eva,4,148.45,593.8,2023-10-17,Debit Card,Pending
+1211,Smartphone,North,David,8,1273.6,10188.8,2023-03-18,PayPal,Pending
+1212,Laptop,North,Alice,17,801.95,13633.150000000001,2023-10-25,PayPal,Cancelled
+1213,Monitor,East,David,9,1875.72,16881.48,2023-05-17,Bank Transfer,Pending
+1214,Monitor,West,Charlie,1,1106.88,1106.88,2023-04-16,PayPal,Pending
+1215,Mouse,South,Charlie,14,1882.32,26352.48,2023-04-05,Credit Card,Pending
+1216,Camera,North,,147,479.94,5279.34,2023-05-15,Credit Card,Completed
+1217,Camera,East,Eva,3,1465.17,4395.51,2023-03-09,Credit Card,Completed
+1218,Tablet,East,Eva,9,1253.64,11282.76,2023-05-27,PayPal,Cancelled
+1219,Tablet,East,Frank,14,1491.85,20885.899999999998,2023-06-08,Credit Card,Completed
+1220,Tablet,South,Charlie,9,468.6,4217.400000000001,2023-06-12,,Cancelled
+1221,Headphones,North,Bob,4,1346.74,5386.96,2023-12-07,PayPal,Completed
+1222,Printer,West,Frank,4,1021.18,4084.72,2023-07-08,Cash,Cancelled
+1223,Keyboard,West,Eva,8,1498.51,11988.08,2023-12-05,PayPal,Completed
+1224,Printer,,David,2,687.74,1375.48,2023-04-05,Bank Transfer,Completed
+1225,Laptop,South,Eva,9,1785.61,16070.49,2023-06-30,Cash,Cancelled
+1226,Printer,South,David,14,214.39,3001.46,2023-10-15,PayPal,Pending
+1227,Headphones,South,Frank,9,1624.02,14616.18,2023-11-18,Credit Card,Pending
+1228,Laptop,West,Charlie,16,1729.57,27673.12,2023-07-06,Debit Card,Completed
+1229,Printer,East,Eva,17,1643.64,27941.88,2023-05-18,Debit Card,Cancelled
+1230,Headphones,,David,16,1049.82,16797.12,2023-05-10,Credit Card,Pending
+1231,Keyboard,West,Charlie,12,904.85,10858.2,2023-07-13,Debit Card,Cancelled
+1232,Printer,East,Bob,3,1992.71,5978.13,2023-11-12,Debit Card,Pending
+1233,Headphones,East,David,11,496.89,5465.79,2023-09-30,Credit Card,Cancelled
+1234,Tablet,North,Frank,14,1116.41,15629.740000000002,2023-12-18,Credit Card,Completed
+1235,Camera,North,Bob,403,1357.82,24440.76,2023-05-24,PayPal,Cancelled
+1236,Tablet,North,Bob,5,1416.69,7083.450000000001,2023-01-16,PayPal,Pending
+1237,Camera,South,Alice,16,6372.86,7165.6,2023-10-29,Credit Card,Completed
+1238,Smartphone,North,Eva,5,1325.29,6626.45,2023-09-02,Bank Transfer,Cancelled
+1239,Smartphone,East,David,3,1645.82,4937.46,2023-04-17,Debit Card,Pending
+1240,Smartphone,North,Bob,12,147.54,1770.48,2023-03-29,PayPal,Completed
+1241,Keyboard,East,,1,1827.47,1827.47,2023-05-09,Debit Card,Cancelled
+1242,Tablet,West,Frank,9,107.53,967.77,2023-12-07,Cash,Pending
+1243,Camera,South,Charlie,9,744.14,6697.26,2023-01-04,Credit Card,Cancelled
+1244,Headphones,West,David,4,80.84,323.36,2023-11-23,Bank Transfer,Cancelled
+1245,Laptop,West,,3,200.43,601.29,2023-11-02,Cash,Completed
+1246,Headphones,,Eva,17,1826.78,31055.26,2023-04-05,Cash,Completed
+1247,Laptop,West,Alice,2,741.98,1483.96,2023-07-28,Cash,Pending
+1248,Monitor,East,Bob,1,878.3,878.3,2023-08-13,Credit Card,Completed
+1249,Headphones,North,Eva,8,469.92,3759.36,2023-12-14,PayPal,Pending
+1250,Printer,North,Bob,13,1214.34,15786.419999999998,2023-11-17,Credit Card,Cancelled
+1251,Printer,East,David,15,1209.87,18148.05,2023-02-16,PayPal,Cancelled
+1252,Mouse,,David,8,775.79,6206.32,2023-06-30,Cash,Pending
+1253,Tablet,South,David,12,699.42,8393.039999999999,2023-04-16,Cash,Cancelled
+1254,Laptop,West,Frank,12,1775.68,21308.16,2023-07-18,Bank Transfer,Completed
+1255,Laptop,South,,14,797.4,11163.6,2023-04-16,PayPal,Cancelled
+1256,Tablet,West,Alice,15,1012.33,15184.95,2023-10-07,Cash,Completed
+1257,Keyboard,North,David,15,602.44,9036.6,2023-09-17,Debit Card,Pending
+1258,Mouse,South,Eva,9,1584.2,14257.800000000001,2023-04-18,Bank Transfer,Pending
+1259,Keyboard,North,Bob,19,825.02,15675.38,2023-01-19,Credit Card,Cancelled
+1260,Keyboard,West,Charlie,8,1051.54,8412.32,2023-10-23,Bank Transfer,Cancelled
+1261,Keyboard,East,Eva,19,544.05,10336.949999999999,2023-11-02,Debit Card,Completed
+1262,Tablet,East,Frank,6,1975.94,11855.64,2023-06-20,PayPal,Completed
+1263,Keyboard,,,19,618.42,11749.98,2023-11-27,,Cancelled
+1264,Printer,North,Eva,4,1552.95,6211.8,2023-07-14,Credit Card,Cancelled
+1265,Smartphone,North,,7,883.62,6185.34,2023-01-12,PayPal,Pending
+1266,Monitor,South,,4,452.12,1808.48,2023-07-14,Bank Transfer,Pending
+1267,Laptop,East,Alice,12,1609.45,19313.4,2023-10-10,Cash,Pending
+1268,Laptop,West,Bob,13,700.53,9106.89,2023-07-01,Bank Transfer,Cancelled
+1269,Monitor,South,Alice,3,1737.13,5211.39,2023-11-01,Debit Card,Cancelled
+1270,Tablet,West,Bob,12,1834.75,22017.0,2023-05-24,Cash,Cancelled
+1271,Headphones,East,Bob,2,1726.66,3453.32,2023-11-12,Bank Transfer,Pending
+1272,Tablet,North,Alice,2,118.27,236.54,2023-07-01,PayPal,Cancelled
+1273,Laptop,East,Eva,9,1585.38,14268.420000000002,2023-01-30,Debit Card,Completed
+1274,Laptop,South,Bob,1,852.11,852.11,2023-03-25,Debit Card,Cancelled
+1275,Monitor,North,Alice,8,1753.76,14030.08,2023-06-15,Debit Card,Cancelled
+1276,Keyboard,South,Bob,6,1294.01,7764.0599999999995,2023-10-11,Cash,Cancelled
+1277,Tablet,South,Charlie,6,7377.63,10053.599999999999,2023-10-08,Credit Card,Cancelled
+1278,Camera,East,Eva,18,1023.89,18430.02,2023-04-06,Cash,Cancelled
+1279,Monitor,South,David,17,1093.3,18586.1,2023-09-23,Bank Transfer,Completed
+1280,Printer,East,Bob,12,331.56,3978.7200000000003,2023-10-25,Credit Card,Completed
+1281,Laptop,North,Charlie,6,1578.78,9472.68,2023-10-23,Bank Transfer,Cancelled
+1282,Monitor,East,David,8,867.81,6942.48,2023-08-13,Credit Card,Pending
+1283,Tablet,,David,19,1025.16,19478.04,2023-11-29,Cash,Cancelled
+1284,Laptop,East,Bob,10,1580.94,15809.400000000001,2023-12-27,,Cancelled
+1285,Headphones,West,Alice,1,1217.75,1217.75,2023-02-11,PayPal,Cancelled
+1286,Monitor,West,Bob,13,442.14,5747.82,2023-10-30,Debit Card,Pending
+1287,Mouse,South,Charlie,17,1200.95,20416.15,2023-09-03,Cash,Pending
+1288,Laptop,East,David,3,844.88,2534.64,2023-07-27,Credit Card,Pending
+1289,Tablet,East,Bob,8,965.57,7724.56,2023-08-25,Debit Card,Completed
+1290,Smartphone,,Alice,14,105.21,1472.9399999999998,2023-01-22,Cash,Pending
+1291,Camera,South,Bob,3,459.56,1378.68,2023-07-04,Bank Transfer,Completed
+1292,Keyboard,East,Eva,16,598.02,9568.32,2023-08-30,PayPal,Completed
+1293,Tablet,South,Alice,13,1440.27,18723.51,2023-12-29,Debit Card,Pending
+1294,Printer,West,Charlie,17,72.41,1230.97,2023-10-10,Credit Card,Pending
+1295,Printer,East,David,13,847.12,11012.56,2023-02-10,Bank Transfer,Pending
+1296,Smartphone,East,Bob,6,1851.85,11111.099999999999,2023-12-02,Cash,Completed
+1297,Keyboard,South,Alice,17,268.17,4558.89,2023-06-11,PayPal,Cancelled
+1298,Mouse,East,Eva,14,1057.03,14798.42,2023-06-09,Credit Card,Pending
+1299,Smartphone,South,Alice,17,1583.72,26923.24,2023-03-30,Cash,Pending
+1300,Smartphone,East,Frank,8,1887.94,15103.52,2023-11-18,Cash,Pending
+1301,Laptop,North,Eva,11,1506.21,16568.31,2023-01-12,Debit Card,Completed
+1302,Printer,South,Charlie,1,1455.1,1455.1,2023-03-14,Debit Card,Completed
+1303,Laptop,East,David,7,1661.65,11631.550000000001,2023-03-17,Credit Card,Cancelled
+1304,Camera,West,Charlie,17,920.09,15641.53,2023-12-12,Cash,Pending
+1305,Keyboard,East,Bob,10,1621.4,16214.0,2023-07-20,Debit Card,Completed
+1306,Mouse,West,Alice,11,65.53,720.83,2023-01-10,PayPal,Cancelled
+1307,Mouse,West,,9,1852.89,16676.010000000002,2023-12-18,PayPal,Pending
+1308,Tablet,North,Eva,9,914.45,8230.050000000001,2023-08-14,Cash,Completed
+1309,Smartphone,South,Eva,5,6333.52,5645.45,2023-06-25,Debit Card,Pending
+1310,Camera,East,Alice,17,547.02,9299.34,2023-10-03,Credit Card,Pending
+1311,Printer,North,Frank,9,1497.94,13481.460000000001,2023-02-08,Credit Card,Completed
+1312,Mouse,East,Alice,17,199.44,3390.48,2023-03-01,,Completed
+1313,Camera,West,Bob,19,1751.64,33281.16,2023-03-07,PayPal,Completed
+1314,Headphones,South,Charlie,7,1664.83,11653.81,2023-11-17,Debit Card,Pending
+1315,Headphones,East,Eva,9,471.32,4241.88,2023-05-04,Debit Card,Pending
+1316,Laptop,East,Bob,7,1628.18,11397.26,2023-06-13,PayPal,Cancelled
+1317,Printer,West,Charlie,13,1583.4,20584.2,2023-06-08,Credit Card,Pending
+1318,Tablet,East,Bob,11,1282.82,14111.019999999999,2023-02-26,,Completed
+1319,Mouse,East,Frank,109,778.36,10897.04,2023-03-19,Cash,Pending
+1320,Smartphone,West,Eva,19,579.42,11008.98,2023-07-13,Bank Transfer,Cancelled
+1321,Smartphone,North,Alice,11,501.98,5521.780000000001,2023-10-12,Debit Card,Cancelled
+1322,Mouse,West,Alice,13,671.29,8726.77,2023-01-15,Debit Card,Completed
+1323,Keyboard,North,Charlie,14,1811.94,25367.16,2023-01-12,Debit Card,Completed
+1324,Tablet,South,David,13,201.4,2618.2000000000003,2023-04-11,Bank Transfer,Cancelled
+1325,Camera,North,Frank,1,1666.3,1666.3,2023-06-05,Cash,Cancelled
+1326,Keyboard,North,Charlie,8,730.34,5842.72,2023-12-06,Bank Transfer,Cancelled
+1327,Keyboard,South,David,12,1067.12,12805.439999999999,2023-05-05,Credit Card,Completed
+1328,Laptop,North,Bob,19,1599.25,30385.75,2023-12-25,Credit Card,Cancelled
+1329,Headphones,West,Frank,12,1774.53,21294.36,2023-10-07,Debit Card,Cancelled
+1330,Keyboard,North,Bob,8,722.32,5778.56,2023-04-20,PayPal,Completed
+1331,Keyboard,South,Eva,8,950.59,7604.72,2023-11-30,Debit Card,Pending
+1332,Monitor,West,Frank,13,858.31,11158.029999999999,2023-12-23,PayPal,Pending
+1333,Laptop,South,David,12,75.84,910.08,2023-05-26,Bank Transfer,Cancelled
+1334,Printer,South,Eva,16,627.09,10033.44,2023-08-04,Credit Card,Pending
+1335,Monitor,East,Alice,1,945.42,945.42,2023-06-11,PayPal,Pending
+1336,Monitor,East,David,13,851.63,11071.19,2023-05-08,Bank Transfer,Pending
+1337,Mouse,South,Charlie,7,1457.76,10204.32,2023-11-10,Credit Card,Pending
+1338,Headphones,South,Alice,5,800.37,4001.85,2023-11-28,PayPal,Cancelled
+1339,Keyboard,South,Alice,8,1004.28,8034.24,2023-05-30,Debit Card,Pending
+1340,Headphones,East,Charlie,14,887.74,12428.36,2023-02-05,Debit Card,Pending
+1341,Tablet,East,,13,1494.22,19424.86,2023-06-22,Debit Card,Completed
+1342,Mouse,North,Alice,15,1732.8,25992.0,2023-01-22,Bank Transfer,Cancelled
+1343,Printer,North,David,17,1087.18,18482.06,2023-07-25,Debit Card,Completed
+1344,Headphones,South,Eva,15,1589.39,23840.850000000002,2023-05-07,Cash,Completed
+1345,Smartphone,West,Alice,18,628.73,11317.14,2023-12-02,Credit Card,Cancelled
+1346,Tablet,West,David,18,1105.67,19902.06,2023-12-22,Bank Transfer,Pending
+1347,Laptop,East,Bob,2,723.2,1446.4,2023-08-05,Debit Card,Completed
+1348,Printer,East,David,4,857.69,3430.76,2023-04-06,,Cancelled
+1349,Tablet,East,Eva,1,1478.21,1478.21,2023-06-13,PayPal,Pending
+1350,Mouse,South,David,4,1769.24,7076.96,2023-05-28,Debit Card,Cancelled
+1351,Monitor,West,Charlie,18,286.92,5164.56,2023-01-18,Credit Card,Completed
+1352,Monitor,North,Eva,5,1287.55,6437.75,2023-10-21,Cash,Pending
+1353,Mouse,South,Frank,19,1185.18,22518.420000000002,2023-07-14,PayPal,Pending
+1354,Camera,,Bob,15,280.91,4213.650000000001,2023-05-31,Cash,Cancelled
+1355,Monitor,North,Charlie,8,463.19,3705.52,2023-12-31,Credit Card,Pending
+1356,Laptop,South,Frank,17,656.45,11159.650000000001,2023-05-03,Cash,Completed
+1357,Laptop,North,David,1,375.52,375.52,2023-07-06,Credit Card,Completed
+1358,Smartphone,West,Eva,12,525.27,6303.24,2023-05-29,Credit Card,Completed
+1359,Keyboard,North,Bob,19,571.82,10864.580000000002,2023-04-14,Cash,Cancelled
+1360,Camera,West,Charlie,15,704.56,10568.4,2023-08-31,Credit Card,Pending
+1361,Printer,,Frank,9,1511.31,13601.789999999999,2023-08-19,Debit Card,Pending
+1362,Monitor,West,Frank,7,1165.23,8156.610000000001,2023-07-25,Credit Card,Pending
+1363,Laptop,East,Bob,2,1973.18,3946.36,2023-07-17,Bank Transfer,Completed
+1364,Mouse,North,David,9,858.73,7728.57,2023-12-03,Credit Card,Pending
+1365,Monitor,South,Bob,10,1520.04,15200.4,2023-03-28,Bank Transfer,Completed
+1366,Keyboard,South,Frank,2,1749.36,3498.72,2023-05-22,Credit Card,Pending
+1367,Mouse,North,Alice,19,1374.01,26106.19,2023-11-13,Credit Card,Completed
+1368,Tablet,East,Charlie,11,853.14,9384.539999999999,2023-07-18,Cash,Pending
+1369,Tablet,East,Bob,13,1519.51,19753.63,2023-02-15,Debit Card,Cancelled
+1370,Monitor,West,,10,447.15,4471.5,2023-10-15,Debit Card,Cancelled
+1371,Keyboard,North,David,14,688.73,9642.220000000001,2023-01-15,PayPal,Completed
+1372,Camera,North,Frank,18,1116.04,20088.72,2023-02-13,Cash,Completed
+1373,Monitor,South,David,19,1172.05,22268.95,2023-06-18,Cash,Pending
+1374,Laptop,North,Bob,9,93.18,838.6200000000001,2023-11-06,Debit Card,Pending
+1375,Headphones,East,David,7,1892.97,13250.79,2023-02-13,Cash,Cancelled
+1376,Monitor,North,Eva,3,1408.42,4225.26,2023-04-08,Debit Card,Pending
+1377,Monitor,South,Eva,6,1016.62,6099.72,2023-09-18,Cash,Completed
+1378,Mouse,West,Eva,2,1869.6,3739.2,2023-04-19,Credit Card,Completed
+1379,Headphones,South,Alice,6,906.24,5437.4400000000005,2023-10-10,Debit Card,Completed
+1380,Laptop,South,Bob,3,1961.85,5885.549999999999,2023-12-09,Debit Card,Completed
+1381,Monitor,West,Frank,16,1048.96,16783.36,2023-04-14,Bank Transfer,Completed
+1382,Mouse,,Frank,8,272.86,2182.88,2023-09-13,Cash,Cancelled
+1383,Keyboard,South,Alice,2,1541.36,3082.72,2023-07-25,Cash,Cancelled
+1384,Monitor,North,David,17,1373.85,23355.449999999997,2023-12-01,Debit Card,Completed
+1385,Headphones,North,Alice,9,1557.32,14015.88,2023-02-12,Credit Card,Pending
+1386,Smartphone,West,David,12,1905.31,22863.72,2023-12-19,Credit Card,Completed
+1387,Headphones,North,David,3,1564.15,4692.450000000001,2023-09-02,Credit Card,Cancelled
+1388,Tablet,North,Charlie,11,1242.11,13663.21,2023-10-14,Cash,Completed
+1389,Laptop,South,Frank,1,1721.75,1721.75,2023-12-21,Bank Transfer,Cancelled
+1390,Printer,East,,13,1362.83,17716.79,2023-09-30,Debit Card,Cancelled
+1391,Monitor,North,,15,845.83,12687.45,2023-03-24,PayPal,Completed
+1392,Headphones,East,Charlie,5,1776.96,8884.8,2023-04-20,Bank Transfer,Completed
+1393,Printer,North,Frank,17,482.71,8206.07,2023-07-09,PayPal,Pending
+1394,Mouse,North,Eva,6,1443.55,8661.3,2023-10-15,Bank Transfer,Cancelled
+1395,Smartphone,West,David,11,1769.05,19459.55,2023-09-08,Credit Card,Pending
+1396,Laptop,West,David,18,1476.07,26569.26,2023-07-31,Cash,Completed
+1397,Headphones,West,Alice,4,1409.69,5638.76,2023-10-18,PayPal,Cancelled
+1398,Printer,,Alice,3,1517.64,4552.92,2023-05-13,Bank Transfer,Pending
+1399,Smartphone,South,Frank,13,956.86,12439.18,2023-07-20,Cash,Pending
+1400,Tablet,North,Eva,9,1754.63,15791.670000000002,2023-10-12,PayPal,Pending
+1401,Laptop,North,David,6,446.7,2680.2,2023-11-22,Debit Card,Completed
+1402,Laptop,North,Frank,12,298.4,3580.7999999999997,2023-04-05,Bank Transfer,Completed
+1403,Tablet,East,Frank,2,606.74,1213.48,2023-10-05,Debit Card,Completed
+1404,Monitor,West,Bob,3,1086.58,3259.74,2023-11-21,Credit Card,Cancelled
+1405,Tablet,South,Alice,3,1045.6,3136.7999999999997,2023-08-07,Debit Card,Completed
+1406,Laptop,East,Eva,12,1650.17,19802.04,2023-03-30,Debit Card,Cancelled
+1407,Laptop,West,David,15,838.91,12583.65,2023-03-13,Bank Transfer,Pending
+1408,Printer,East,Frank,9,994.47,8950.23,2023-09-04,Credit Card,Pending
+1409,Smartphone,South,David,8,76.07,608.56,2023-05-09,Debit Card,Completed
+1410,Tablet,West,Bob,11,848.99,9338.89,2023-07-31,Cash,Pending
+1411,Smartphone,East,Eva,16,1313.16,21010.56,2023-12-09,PayPal,Completed
+1412,Tablet,South,Frank,4,80.24,320.96,2023-04-06,Debit Card,Cancelled
+1413,Mouse,North,David,1,597.72,597.72,2023-03-16,Credit Card,Pending
+1414,Laptop,South,Alice,7,455.51,3188.5699999999997,2023-02-23,Debit Card,Completed
+1415,Printer,North,Bob,2,131.87,263.74,2023-12-10,PayPal,Pending
+1416,Smartphone,East,Eva,5,984.56,4922.799999999999,2023-02-23,Credit Card,Pending
+1417,Tablet,West,Bob,7,404.36,2830.52,2023-08-06,Bank Transfer,Completed
+1418,Camera,West,Alice,4,1499.01,5996.04,2023-01-16,Credit Card,Pending
+1419,Mouse,East,Eva,5,1703.46,8517.3,2023-04-09,Bank Transfer,Pending
+1420,Headphones,West,Bob,1,1113.89,1113.89,2023-01-20,Credit Card,Pending
+1421,Monitor,West,Charlie,1,1964.33,1964.33,2023-02-15,PayPal,Pending
+1422,Smartphone,North,Alice,15,928.43,13926.449999999999,2023-07-12,PayPal,Cancelled
+1423,Printer,East,Alice,19,1051.07,19970.329999999998,2023-02-27,Credit Card,Pending
+1424,Headphones,South,Alice,10,1978.97,19789.7,2023-04-21,Debit Card,Pending
+1425,Camera,North,Charlie,18,8865.45,9027.36,2023-05-09,PayPal,Completed
+1426,Monitor,East,Charlie,3,1887.96,5663.88,2023-12-03,Bank Transfer,Cancelled
+1427,Camera,North,David,11,133.53,1468.83,2023-07-13,Bank Transfer,Completed
+1428,Headphones,South,Frank,15,920.45,13806.75,2023-12-06,Cash,Completed
+1429,Monitor,South,Bob,11,186.51,2051.6099999999997,2023-11-22,Bank Transfer,Completed
+1430,Camera,East,David,17,1472.01,25024.17,2023-01-08,Cash,Cancelled
+1431,Printer,South,Bob,17,1236.4,21018.800000000003,2023-01-29,Credit Card,Completed
+1432,Tablet,North,Frank,6,1427.94,8567.64,2023-04-22,Credit Card,Completed
+1433,Laptop,South,Charlie,5,780.24,3901.2,2023-06-10,Credit Card,Completed
+1434,Tablet,North,,8,770.49,6163.92,2023-05-11,Debit Card,Pending
+1435,Headphones,North,Charlie,2,138.37,276.74,2023-07-07,,Completed
+1436,Smartphone,South,Frank,16,732.39,11718.24,2023-06-12,Cash,Cancelled
+1437,Laptop,East,David,12,1862.11,22345.32,2023-07-16,Bank Transfer,Cancelled
+1438,Mouse,West,,6,789.49,4736.9400000000005,2023-12-30,Bank Transfer,Pending
+1439,Printer,South,David,1,1671.17,1671.17,2023-07-23,Credit Card,Cancelled
+1440,Mouse,North,Bob,4,1692.53,6770.12,2023-07-31,PayPal,Cancelled
+1441,Monitor,North,David,17,777.82,13222.94,2023-04-19,Debit Card,Pending
+1442,Laptop,South,Alice,13,1282.38,16670.940000000002,2023-10-03,Debit Card,Completed
+1443,Mouse,East,Bob,18,235.97,4247.46,2023-03-14,Credit Card,Pending
+1444,Mouse,East,Frank,5,252.17,1260.85,2023-06-16,Debit Card,Completed
+1445,Camera,North,Bob,3,144.88,434.64,2023-09-17,Credit Card,Completed
+1446,Tablet,North,Eva,11,1182.98,13012.78,2023-08-31,Cash,Cancelled
+1447,Camera,East,Charlie,13,880.84,11450.92,2023-10-02,Bank Transfer,Pending
+1448,Laptop,West,Frank,4,1118.66,4474.64,2023-04-12,,Cancelled
+1449,Laptop,South,Bob,14,1066.09,14925.259999999998,2023-06-22,Bank Transfer,Cancelled
+1450,Headphones,North,Frank,11,732.9,8061.9,2023-06-20,Bank Transfer,Completed
+1451,Camera,North,Frank,10,1371.07,13710.699999999999,2023-05-21,,Cancelled
+1452,Keyboard,East,,19,1529.08,29052.519999999997,2023-07-07,Debit Card,Pending
+1453,Tablet,South,Charlie,18,78.53,1413.54,2023-03-27,PayPal,Cancelled
+1454,Laptop,East,David,6,454.12,2724.7200000000003,2023-02-21,Debit Card,Cancelled
+1455,Headphones,South,Frank,15,1440.81,21612.149999999998,2023-04-21,Bank Transfer,Completed
+1456,Camera,South,Alice,10,803.91,8039.099999999999,2023-12-31,Credit Card,Pending
+1457,Tablet,South,Eva,5,1341.84,6709.2,2023-12-08,Bank Transfer,Cancelled
+1458,Camera,North,Charlie,5,726.58,3632.9,2023-02-12,Debit Card,Completed
+1459,Mouse,West,Bob,10,811.97,8119.700000000001,2023-07-30,Bank Transfer,Cancelled
+1460,Headphones,East,Charlie,5,359.42,1797.1000000000001,2023-07-19,Credit Card,Pending
+1461,Tablet,West,,3,553.55,1660.6499999999999,2023-10-25,Cash,Cancelled
+1462,Monitor,,Charlie,6,1230.55,7383.299999999999,2023-12-12,Debit Card,Cancelled
+1463,Monitor,South,Bob,4,894.67,3578.68,2023-08-28,Bank Transfer,Completed
+1464,Tablet,North,Frank,18,1559.89,28078.02,2023-04-25,Debit Card,Cancelled
+1465,Camera,West,,9,1712.54,15412.86,2023-01-26,Cash,Completed
+1466,Headphones,North,Bob,17,1106.21,18805.57,2023-10-26,Bank Transfer,Pending
+1467,Monitor,East,Bob,13,1528.62,19872.059999999998,2023-03-18,Bank Transfer,Cancelled
+1468,Headphones,North,Alice,15,648.46,9726.900000000001,2023-05-17,Debit Card,Pending
+1469,Monitor,North,Bob,17,859.19,14606.230000000001,2023-01-20,Debit Card,Pending
+1470,Mouse,West,Alice,13,1439.92,18718.96,2023-07-30,Credit Card,Cancelled
+1471,Camera,South,Eva,16,803.11,12849.76,2023-08-28,Cash,Completed
+1472,Mouse,North,Frank,4,1197.58,4790.32,2023-02-08,Credit Card,Pending
+1473,Monitor,South,Alice,5,411.48,2057.4,2023-09-25,Bank Transfer,Pending
+1474,Mouse,East,David,5,1219.55,6097.75,2023-07-26,Debit Card,Cancelled
+1475,Monitor,North,Frank,9,1729.95,15569.550000000001,2023-09-24,Bank Transfer,Cancelled
+1476,Tablet,West,Alice,17,1743.85,29645.449999999997,2023-06-03,Bank Transfer,Cancelled
+1477,Mouse,East,Frank,13,1462.47,19012.11,2023-02-11,PayPal,Cancelled
+1478,Smartphone,East,Frank,2,1504.22,3008.44,2023-01-11,PayPal,Cancelled
+1479,Camera,West,,13,1137.96,14793.48,2023-10-21,Bank Transfer,Cancelled
+1480,Laptop,North,Eva,19,1190.1,22611.899999999998,2023-04-08,Debit Card,Completed
+1481,Keyboard,North,David,3,310.62,931.86,2023-10-02,Bank Transfer,Pending
+1482,Mouse,East,Charlie,10,915.53,9155.3,2023-08-18,PayPal,Completed
+1483,Printer,North,Charlie,2,929.01,1858.02,2023-08-08,Debit Card,Completed
+1484,Camera,South,Alice,13,1919.07,24947.91,2023-03-06,Bank Transfer,Cancelled
+1485,Smartphone,West,Frank,19,890.62,16921.78,2023-12-21,Cash,Pending
+1486,Smartphone,South,Alice,17,1121.22,19060.74,2023-08-20,Cash,Completed
+1487,Monitor,North,Eva,14,1089.84,15257.759999999998,2023-11-24,Bank Transfer,Cancelled
+1488,Monitor,East,Eva,12,1291.69,15500.28,2023-02-21,Debit Card,Cancelled
+1489,Keyboard,West,,12,1509.05,18108.6,2023-09-20,Bank Transfer,Pending
+1490,Tablet,North,Eva,11,488.83,5377.13,2023-09-24,Bank Transfer,Completed
+1491,Printer,North,Bob,7,1081.01,7567.07,2023-12-25,,Completed
+1492,Laptop,East,David,4,1660.54,6642.16,2023-11-13,Cash,Completed
+1493,Keyboard,East,Alice,19,953.07,18108.33,2023-11-20,PayPal,Cancelled
+1494,Headphones,South,David,1,592.99,592.99,2023-06-03,PayPal,Pending
+1495,Laptop,West,Eva,3,1326.68,3980.04,2023-12-24,Bank Transfer,Pending
+1496,Mouse,West,David,13,1656.35,21532.55,2023-05-20,PayPal,Completed
+1497,Camera,East,David,15,173.12,2596.8,2023-02-20,Cash,Cancelled
+1498,Headphones,South,David,2,1564.74,3129.48,2023-04-27,PayPal,Completed
+1499,Headphones,West,Eva,11,1652.21,18174.31,2023-02-15,Cash,Pending
+1500,Keyboard,East,Frank,4,949.97,3799.88,2023-11-05,PayPal,Cancelled
+1501,Tablet,North,David,19,1967.45,37381.55,2023-03-29,Cash,Completed
+1502,Keyboard,West,Bob,17,1584.08,26929.36,2023-07-27,PayPal,Completed
+1503,Mouse,South,Eva,3,1558.64,4675.92,2023-09-26,PayPal,Cancelled
+1504,Tablet,South,David,18,1508.29,27149.22,2023-03-30,Debit Card,Pending
+1505,Mouse,South,Frank,8,343.69,2749.52,2023-04-28,Cash,Cancelled
+1506,Tablet,North,Eva,19,473.6,8998.4,2023-02-23,Cash,Completed
+1507,Smartphone,West,Charlie,5,954.78,4773.9,2023-04-26,Cash,Completed
+1508,Headphones,West,Frank,7,564.81,3953.6699999999996,2023-04-28,Credit Card,Completed
+1509,Printer,North,Bob,8,859.72,6877.76,2023-09-17,PayPal,Completed
+1510,Camera,West,David,5,1782.51,8912.55,2023-03-16,Cash,Pending
+1511,Mouse,North,Charlie,17,1657.44,28176.48,2023-11-01,Credit Card,Pending
+1512,Laptop,North,Charlie,354,1278.58,6392.9,2023-01-07,Debit Card,Completed
+1513,Tablet,North,Eva,4,1723.33,6893.32,2023-05-02,Cash,Pending
+1514,Camera,South,Charlie,19,1578.36,29988.839999999997,2023-01-11,Cash,Pending
+1515,Laptop,,Bob,2,886.52,1773.04,2023-12-14,Credit Card,Pending
+1516,Camera,North,Bob,11,442.08,4862.88,2023-08-03,PayPal,Completed
+1517,Printer,West,Alice,13,1052.69,13684.970000000001,2023-10-06,Debit Card,Cancelled
+1518,Laptop,South,Bob,15,1485.65,22284.75,2023-01-28,Cash,Cancelled
+1519,Keyboard,North,Frank,12,901.02,10812.24,2023-08-23,PayPal,Cancelled
+1520,Monitor,East,Charlie,11,1350.21,14852.310000000001,2023-11-09,Debit Card,Completed
+1521,Keyboard,South,Bob,7,233.94,1637.58,2023-01-26,Bank Transfer,Pending
+1522,Monitor,East,Eva,5,1508.61,7543.049999999999,2023-02-23,Bank Transfer,Pending
+1523,Keyboard,West,Alice,17,1634.79,27791.43,2023-01-29,Debit Card,Completed
+1524,Monitor,West,Charlie,9,1428.33,12854.97,2023-12-19,,Completed
+1525,Monitor,South,,14,1936.16,27106.24,2023-06-13,Debit Card,Cancelled
+1526,Headphones,West,Charlie,12,1661.97,19943.64,2023-09-27,Debit Card,Cancelled
+1527,Tablet,East,Eva,6,1811.03,10866.18,2023-11-30,Credit Card,Completed
+1528,Tablet,North,Alice,17,1870.46,31797.82,2023-02-04,Credit Card,Cancelled
+1529,Headphones,North,David,19,1612.63,30639.97,2023-10-13,,Pending
+1530,Camera,North,Frank,19,1364.8,25931.2,2023-12-14,PayPal,Completed
+1531,Smartphone,South,Frank,16,61.15,978.4,2023-09-30,Credit Card,Completed
+1532,Camera,West,Charlie,12,958.36,11500.32,2023-07-27,Bank Transfer,Pending
+1533,Laptop,East,David,12,1163.77,13965.24,2023-08-26,Bank Transfer,Pending
+1534,Laptop,West,Alice,6,642.86,3857.16,2023-04-03,Debit Card,Pending
+1535,Monitor,West,David,4,670.3,2681.2,2023-06-22,Cash,Cancelled
+1536,Keyboard,West,David,6,1924.26,11545.56,2023-03-20,Debit Card,Completed
+1537,Keyboard,,Alice,11,1788.84,19677.239999999998,2023-04-20,Debit Card,Cancelled
+1538,Tablet,East,Eva,1,1705.9,1705.9,2023-08-05,Cash,Pending
+1539,Mouse,East,David,15,841.72,12625.800000000001,2023-12-24,Credit Card,Cancelled
+1540,Camera,West,David,11,76.71,843.81,2023-04-16,Bank Transfer,Pending
+1541,Printer,North,Eva,19,206.43,3922.17,2023-02-16,Debit Card,Cancelled
+1542,Keyboard,North,David,18,658.78,11858.039999999999,2023-06-30,Cash,Cancelled
+1543,Printer,East,David,17,80.7,1371.9,2023-03-05,PayPal,Pending
+1544,Monitor,North,David,19,83.44,1585.36,2023-09-03,Debit Card,Cancelled
+1545,Printer,North,Frank,14,1837.38,25723.32,2023-09-01,Bank Transfer,Completed
+1546,Headphones,North,Bob,18,1427.01,25686.18,2023-11-16,Credit Card,Cancelled
+1547,Printer,South,Eva,19,652.46,12396.740000000002,2023-03-28,Debit Card,Cancelled
+1548,Smartphone,,David,15,308.66,4629.900000000001,2023-08-05,Debit Card,Completed
+1549,Monitor,,Frank,15,1047.69,15715.35,2023-01-07,Cash,Pending
+1550,Camera,East,Eva,4,60.43,241.72,2023-10-05,PayPal,Completed
+1551,Headphones,South,Charlie,7,1879.91,13159.37,2023-12-03,PayPal,Cancelled
+1552,Keyboard,West,Charlie,13,858.89,11165.57,2023-07-29,Credit Card,Pending
+1553,Laptop,East,David,3,834.55,2503.6499999999996,2023-06-18,Bank Transfer,Cancelled
+1554,Camera,North,Frank,16,811.66,12986.56,2023-11-26,Credit Card,Cancelled
+1555,Laptop,East,Frank,9,185.19,1666.71,2023-05-18,Debit Card,Completed
+1556,Monitor,North,Eva,8,1294.73,10357.84,2023-11-02,Debit Card,Completed
+1557,Headphones,South,Eva,13,1479.36,19231.68,2023-08-18,PayPal,Pending
+1558,Tablet,North,Frank,17,1368.44,23263.48,2023-11-04,Bank Transfer,Pending
+1559,Keyboard,East,Eva,17,319.95,5439.15,2023-06-10,Cash,Pending
+1560,Smartphone,East,Frank,17,1178.74,20038.58,2023-01-01,Bank Transfer,Cancelled
+1561,Tablet,East,Bob,1,1160.49,1160.49,2023-08-24,Debit Card,Completed
+1562,Monitor,South,Frank,8,1743.4,13947.2,2023-07-07,Cash,Completed
+1563,Camera,South,Charlie,19,789.3,14996.699999999999,2023-01-04,Bank Transfer,Completed
+1564,Smartphone,West,Eva,6,774.4,4646.4,2023-05-12,Bank Transfer,Pending
+1565,Printer,,Frank,3,1256.13,3768.3900000000003,2023-08-06,Cash,Completed
+1566,Smartphone,North,Frank,5,1284.49,6422.45,2023-09-17,,Completed
+1567,Monitor,South,Eva,13,965.11,12546.43,2023-01-01,Bank Transfer,Completed
+1568,Mouse,East,Bob,15,913.97,13709.550000000001,2023-03-12,Cash,Pending
+1569,Printer,East,Bob,14,1013.59,14190.26,2023-06-27,Debit Card,Completed
+1570,Laptop,South,Eva,16,1729.04,27664.64,2023-07-08,Cash,Pending
+1571,Keyboard,West,Alice,18,949.28,17087.04,2023-10-18,Cash,Completed
+1572,Laptop,South,Eva,11,1882.87,20711.57,2023-01-08,Bank Transfer,Completed
+1573,Smartphone,South,Eva,3,1032.81,3098.43,2023-09-10,Debit Card,Completed
+1574,Laptop,North,Bob,10,1900.94,19009.4,2023-10-19,Bank Transfer,Pending
+1575,Monitor,North,Bob,10,1674.02,16740.2,2023-09-01,Credit Card,Pending
+1576,Camera,West,Eva,16,756.74,12107.84,2023-05-03,Credit Card,Completed
+1577,Keyboard,East,Eva,12,1734.1,20809.199999999997,2023-10-26,Debit Card,Cancelled
+1578,Laptop,South,Eva,2,264.62,529.24,2023-10-10,Cash,Pending
+1579,Laptop,West,,9,1853.84,16684.559999999998,2023-02-01,Bank Transfer,Pending
+1580,Smartphone,North,Eva,3,1281.7,3845.1000000000004,2023-11-30,Bank Transfer,Completed
+1581,Camera,South,Eva,15,156.06,2340.9,2023-05-26,Debit Card,Cancelled
+1582,Tablet,East,David,3,1306.3,3918.8999999999996,2023-06-05,Debit Card,Completed
+1583,Laptop,North,Alice,19,1949.78,37045.82,2023-01-16,Credit Card,Pending
+1584,Monitor,North,Charlie,18,186.11,3349.9800000000005,2023-12-21,PayPal,Pending
+1585,Mouse,North,Alice,8,1131.64,9053.12,2023-02-16,Debit Card,Completed
+1586,Keyboard,West,David,17,1508.2,25639.4,2023-09-08,PayPal,Completed
+1587,Laptop,East,Charlie,8,1630.0,13040.0,2023-07-06,Debit Card,Cancelled
+1588,Monitor,South,Eva,7,856.96,5998.72,2023-01-31,Cash,Cancelled
+1589,Monitor,West,David,7,448.12,3136.84,2023-09-17,Cash,Pending
+1590,Keyboard,West,Eva,3,132.57,397.71,2023-01-17,Credit Card,Cancelled
+1591,Tablet,West,Bob,1,1180.47,1180.47,2023-02-08,Credit Card,Cancelled
+1592,Monitor,North,Frank,4,933.18,3732.72,2023-10-31,PayPal,Pending
+1593,Mouse,East,David,5,1900.05,9500.25,2023-02-08,Debit Card,Pending
+1594,Monitor,West,Bob,183,168.18,168.18,2023-05-12,Bank Transfer,Pending
+1595,Monitor,South,David,15,1386.52,20797.8,2023-01-30,Credit Card,Pending
+1596,Monitor,East,David,5,98.68,493.40000000000003,2023-06-07,Bank Transfer,Completed
+1597,Tablet,South,Bob,13,384.3,4995.900000000001,2023-10-05,Bank Transfer,Pending
+1598,Laptop,East,Charlie,8,934.48,7475.84,2023-07-22,Debit Card,Pending
+1599,Monitor,South,Alice,8,937.0,7496.0,2023-03-07,PayPal,Pending
+1600,Camera,North,Eva,5,1387.12,6935.599999999999,2023-04-18,Debit Card,Cancelled
+1601,Laptop,West,David,9,1824.92,16424.28,2023-09-25,,Pending
+1602,Tablet,South,Eva,1,1296.11,1296.11,2023-08-10,Bank Transfer,Completed
+1603,Headphones,East,,4,1909.39,7637.56,2023-10-19,Debit Card,Completed
+1604,Laptop,West,Bob,3,1769.15,5307.450000000001,2023-01-18,Debit Card,Pending
+1605,Laptop,West,Eva,2,1189.77,2379.54,2023-03-31,Debit Card,Completed
+1606,Printer,East,Bob,8,1675.89,13407.12,2023-06-30,Credit Card,Cancelled
+1607,Smartphone,South,Eva,9,1303.03,11727.27,2023-09-12,PayPal,Pending
+1608,Printer,North,Alice,2,203.19,406.38,2023-09-10,Debit Card,Completed
+1609,Mouse,North,Alice,14,1494.1,20917.399999999998,2023-09-14,Credit Card,Completed
+1610,Smartphone,South,Alice,14,235.07,3290.98,2023-12-12,Bank Transfer,Pending
+1611,Keyboard,West,Alice,4,1208.46,4833.84,2023-03-28,Cash,Completed
+1612,Keyboard,West,Alice,6,1420.15,8520.900000000001,2023-03-31,Credit Card,Pending
+1613,Tablet,West,Alice,11,179.73,1977.03,2023-08-25,Cash,Completed
+1614,Smartphone,West,Bob,3,500.05,1500.15,2023-03-11,Debit Card,Cancelled
+1615,Laptop,South,David,8,1835.56,14684.48,2023-02-13,,Completed
+1616,Keyboard,West,Eva,3,1251.81,3755.43,2023-07-19,Credit Card,Completed
+1617,Monitor,East,Alice,14,530.26,7423.639999999999,2023-06-01,Cash,Pending
+1618,Camera,West,Bob,13,1396.83,18158.79,2023-03-27,Debit Card,Completed
+1619,Laptop,North,Bob,13,1213.71,15778.23,2023-01-19,Bank Transfer,Pending
+1620,Mouse,West,Bob,2,1028.07,2056.14,2023-04-11,,Cancelled
+1621,Monitor,South,David,13,1953.56,25396.28,2023-04-05,PayPal,Pending
+1622,Monitor,North,Eva,19,1382.73,26271.87,2023-09-11,Debit Card,Pending
+1623,Smartphone,South,David,6,782.11,4692.66,2023-12-23,Cash,Completed
+1624,Tablet,South,Charlie,16,1610.14,25762.24,2023-01-30,Debit Card,Cancelled
+1625,Mouse,North,Bob,2,1774.94,3549.88,2023-09-06,Cash,Pending
+1626,Keyboard,South,Charlie,8,294.18,2353.44,2023-02-02,Bank Transfer,Completed
+1627,Smartphone,,Frank,17,441.08,7498.36,2023-08-17,Cash,Completed
+1628,Keyboard,West,Alice,2,471.64,943.28,2023-01-12,Debit Card,Pending
+1629,Smartphone,East,Alice,10,1397.86,13978.599999999999,2023-04-28,Bank Transfer,Completed
+1630,Smartphone,South,David,16,1225.93,19614.88,2023-12-16,Credit Card,Pending
+1631,Smartphone,South,Eva,6,1257.03,7542.18,2023-06-04,PayPal,Pending
+1632,Tablet,South,Charlie,2,1884.51,3769.02,2023-09-03,Debit Card,Pending
+1633,Smartphone,West,Eva,2,1563.03,3126.06,2023-11-28,Debit Card,Cancelled
+1634,Headphones,East,David,13,299.48,3893.2400000000002,2023-09-04,Debit Card,Pending
+1635,Camera,,Alice,15,727.64,10914.6,2023-01-29,Bank Transfer,Completed
+1636,Keyboard,West,Eva,2,899.02,1798.04,2023-06-10,Credit Card,Cancelled
+1637,Laptop,West,Eva,7,822.13,5754.91,2023-08-23,Cash,Completed
+1638,Printer,East,Alice,3,1355.15,4065.4500000000003,2023-07-09,Credit Card,Cancelled
+1639,Mouse,East,Charlie,8,1789.19,14313.52,2023-04-27,Bank Transfer,Cancelled
+1640,Tablet,West,Alice,14,646.8,9055.199999999999,2023-09-28,Debit Card,Cancelled
+1641,Laptop,North,Eva,7,1126.16,7883.120000000001,2023-09-15,PayPal,Cancelled
+1642,Monitor,West,Charlie,7,1589.35,11125.449999999999,2023-06-29,Debit Card,Completed
+1643,Headphones,East,Charlie,1,861.63,861.63,2023-06-21,Cash,Pending
+1644,Printer,North,Alice,17,377.83,6423.11,2023-10-01,PayPal,Completed
+1645,Laptop,East,Eva,9,976.15,8785.35,2023-09-16,Debit Card,Pending
+1646,Laptop,North,David,13,157.68,2049.84,2023-05-15,PayPal,Completed
+1647,Headphones,South,Eva,19,1887.65,35865.35,2023-06-20,Credit Card,Cancelled
+1648,Printer,East,Bob,19,195.9,3722.1,2023-07-29,Bank Transfer,Cancelled
+1649,Monitor,East,Frank,17,904.99,15384.83,2023-08-24,Debit Card,Pending
+1650,Smartphone,West,David,10,1083.27,10832.7,2023-07-05,Cash,Pending
+1651,Keyboard,East,Charlie,10,1971.34,19713.399999999998,2023-12-30,Credit Card,Completed
+1652,Monitor,East,David,4,373.74,1494.96,2023-04-05,Debit Card,Pending
+1653,Smartphone,South,Charlie,8,273.14,2185.12,2023-01-11,Credit Card,Completed
+1654,Tablet,East,Charlie,18,66.98,1205.64,2023-03-09,Cash,Pending
+1655,Camera,South,David,14,353.36,4947.04,2023-07-29,Debit Card,Pending
+1656,Mouse,,Charlie,18,454.18,8175.24,2023-07-15,Cash,Pending
+1657,Mouse,South,Charlie,14,1279.63,17914.82,2023-04-08,PayPal,Cancelled
+1658,Keyboard,South,Bob,15,478.43,7176.45,2023-04-03,,Cancelled
+1659,Printer,North,Eva,4,90.02,360.08,2023-01-22,PayPal,Completed
+1660,Headphones,West,Eva,13,1661.91,21604.83,2023-06-21,Debit Card,Pending
+1661,Printer,North,Frank,8,762.91,6103.28,2023-05-14,PayPal,Completed
+1662,Headphones,East,Frank,18,739.71,13314.78,2023-01-25,Debit Card,Pending
+1663,Printer,North,Bob,12,639.83,7677.960000000001,2023-07-04,Debit Card,Cancelled
+1664,Camera,North,Frank,14,1951.98,27327.72,2023-03-26,,Cancelled
+1665,Tablet,East,David,2,381.73,763.46,2023-02-24,Debit Card,Pending
+1666,Tablet,,Alice,18,1801.56,32428.079999999998,2023-09-08,PayPal,Pending
+1667,Smartphone,East,Alice,2,1564.77,3129.54,2023-05-24,Bank Transfer,Cancelled
+1668,Tablet,North,Alice,11,199.14,2190.54,2023-12-17,Bank Transfer,Cancelled
+1669,Tablet,North,Bob,9,1974.12,17767.079999999998,2023-06-16,Debit Card,Completed
+1670,Monitor,,Bob,12,579.16,6949.92,2023-08-12,Cash,Cancelled
+1671,Monitor,West,Charlie,17,242.24,4118.08,2023-08-08,Cash,Pending
+1672,Smartphone,West,Alice,15,1667.16,25007.4,2023-06-28,Bank Transfer,Completed
+1673,Keyboard,South,David,17,1428.02,24276.34,2023-04-29,Debit Card,Pending
+1674,Monitor,East,Frank,18,1253.58,22564.44,2023-09-22,,Completed
+1675,Keyboard,South,David,6,354.16,2124.96,2023-05-30,Debit Card,Pending
+1676,Laptop,West,Frank,17,983.07,16712.190000000002,2023-08-03,Debit Card,Cancelled
+1677,Monitor,South,Alice,18,1572.08,28297.44,2023-07-16,Bank Transfer,Pending
+1678,Camera,East,Alice,8,642.07,5136.56,2023-02-11,Bank Transfer,Completed
+1679,Smartphone,East,Alice,9,657.8,5920.2,2023-02-22,Credit Card,Pending
+1680,Laptop,East,Bob,6,56.12,336.71999999999997,2023-11-26,Cash,Completed
+1681,Camera,North,Frank,5,389.77,1948.85,2023-09-08,Cash,Pending
+1682,Camera,South,Bob,12,1757.04,21084.48,2023-10-22,Cash,Cancelled
+1683,Camera,West,Bob,11,911.41,10025.51,2023-09-28,PayPal,Cancelled
+1684,Keyboard,West,Eva,1,1969.26,1969.26,2023-05-03,Debit Card,Pending
+1685,Printer,West,,11,821.63,9037.93,2023-12-05,Bank Transfer,Pending
+1686,Laptop,North,David,19,1444.61,27447.589999999997,2023-09-23,Cash,Pending
+1687,Headphones,North,Charlie,9,599.74,5397.66,2023-12-14,Credit Card,Completed
+1688,Laptop,East,Bob,2,759.43,1518.86,2023-01-29,Cash,Pending
+1689,Printer,West,Frank,12,421.92,5063.04,2023-02-04,Debit Card,Pending
+1690,Laptop,North,Eva,4,726.77,2907.08,2023-01-06,,Completed
+1691,Tablet,East,Eva,4,1117.11,4468.44,2023-04-21,Bank Transfer,Cancelled
+1692,Headphones,West,David,18,1983.96,35711.28,2023-10-21,PayPal,Pending
+1693,Printer,South,Bob,15,1345.19,20177.850000000002,2023-03-18,Bank Transfer,Pending
+1694,Keyboard,East,Charlie,19,438.53,8332.07,2023-12-15,Cash,Cancelled
+1695,Mouse,North,,13,137.67,1789.7099999999998,2023-05-27,Credit Card,Cancelled
+1696,Printer,North,Alice,19,296.4,5631.599999999999,2023-03-08,Bank Transfer,Completed
+1697,Smartphone,East,Bob,17,1146.98,19498.66,2023-01-08,PayPal,Pending
+1698,Printer,East,Alice,6,1542.06,9252.36,2023-05-02,Bank Transfer,Pending
+1699,Tablet,North,,16,1883.82,30141.12,2023-12-06,Debit Card,Completed
+1700,Mouse,South,Charlie,12,80.86,970.3199999999999,2023-06-24,Cash,Cancelled
+1701,Tablet,West,Frank,19,1069.38,20318.22,2023-06-28,Cash,Completed
+1702,Mouse,South,David,5,968.19,4840.950000000001,2023-03-26,Cash,Cancelled
+1703,Smartphone,East,Bob,17,1329.31,22598.27,2023-02-14,Cash,Completed
+1704,Keyboard,South,Alice,1,1141.18,1141.18,2023-05-16,Cash,Cancelled
+1705,Tablet,North,Bob,10,1389.73,13897.3,2023-12-09,Cash,Completed
+1706,Tablet,East,Frank,15,1333.26,19998.9,2023-01-16,Credit Card,Cancelled
+1707,Camera,West,David,11,278.17,3059.8700000000003,2023-11-29,PayPal,Cancelled
+1708,Mouse,North,Frank,13,1609.45,20922.850000000002,2023-07-14,Cash,Cancelled
+1709,Monitor,North,David,5,290.3,1451.5,2023-01-09,PayPal,Cancelled
+1710,Mouse,West,Eva,1,1412.13,1412.13,2023-11-12,Cash,Cancelled
+1711,Camera,West,David,12,861.48,10337.76,2023-11-30,Bank Transfer,Pending
+1712,Laptop,South,Charlie,11,1052.01,11572.11,2023-11-29,Cash,Cancelled
+1713,Mouse,East,Frank,17,1811.43,30794.31,2023-11-23,Debit Card,Pending
+1714,Keyboard,West,Alice,4,1785.27,7141.08,2023-01-15,Credit Card,Cancelled
+1715,Camera,West,Eva,15,1644.82,24672.3,2023-11-23,Bank Transfer,Pending
+1716,Laptop,East,,9,9834.93,9403.11,2023-04-12,Bank Transfer,Pending
+1717,Headphones,West,Bob,19,1485.67,28227.730000000003,2023-08-14,Debit Card,Completed
+1718,Camera,West,Frank,19,1050.15,19952.850000000002,2023-10-05,Cash,Cancelled
+1719,Headphones,South,,12,1745.73,20948.760000000002,2023-04-23,,Completed
+1720,Tablet,North,David,5,835.41,4177.05,2023-01-01,Bank Transfer,Completed
+1721,Camera,North,Alice,10,1941.96,19419.6,2023-09-23,Credit Card,Cancelled
+1722,Smartphone,North,Bob,17,1868.03,31756.51,2023-07-27,Bank Transfer,Completed
+1723,Headphones,,Eva,5,1496.13,7480.650000000001,2023-04-20,Cash,Cancelled
+1724,Keyboard,West,Eva,16,594.86,9517.76,2023-07-19,Bank Transfer,Completed
+1725,Smartphone,East,Frank,7,306.72,2147.04,2023-11-02,Bank Transfer,Cancelled
+1726,Printer,East,Eva,9,1716.67,15450.03,2023-01-12,PayPal,Cancelled
+1727,Printer,South,Frank,3,372.34,1117.02,2023-12-11,Cash,Cancelled
+1728,Laptop,,Frank,15,1715.81,25737.149999999998,2023-07-07,Debit Card,Pending
+1729,Tablet,West,Frank,16,1006.99,16111.84,2023-06-03,Debit Card,Completed
+1730,Camera,East,David,18,842.79,15170.22,2023-11-30,Cash,Pending
+1731,Monitor,East,Charlie,14,1811.22,25357.08,2023-10-06,Debit Card,Completed
+1732,Keyboard,North,Frank,3,1227.51,3682.5299999999997,2023-06-20,Cash,Completed
+1733,Headphones,West,Frank,12,1174.4,14092.800000000001,2023-05-14,,Completed
+1734,Smartphone,West,Charlie,9,1139.59,10256.31,2023-01-25,PayPal,Pending
+1735,Printer,North,Alice,7,773.78,5416.46,2023-01-18,Debit Card,Completed
+1736,Keyboard,West,Frank,9,1582.0,14238.0,2023-07-09,Bank Transfer,Pending
+1737,Monitor,West,David,13,542.96,7058.4800000000005,2023-05-21,Cash,Cancelled
+1738,Camera,South,Eva,18,1880.85,33855.299999999996,2023-02-12,Credit Card,Completed
+1739,Laptop,East,Eva,5,1793.27,8966.35,2023-11-30,Credit Card,Completed
+1740,Monitor,West,Bob,13,708.09,9205.17,2023-10-11,Cash,Cancelled
+1741,Keyboard,South,Bob,4,1472.45,5889.8,2023-05-26,PayPal,Cancelled
+1742,Monitor,East,Eva,2,1167.79,2335.58,2023-11-11,Debit Card,Completed
+1743,Keyboard,North,Eva,16,708.42,11334.72,2023-11-15,PayPal,Cancelled
+1744,Keyboard,South,David,9,1977.62,17798.579999999998,2023-04-02,Credit Card,Pending
+1745,Mouse,South,Charlie,9,99.21,892.89,2023-06-28,Cash,Pending
+1746,Headphones,East,Bob,6,542.66,3255.96,2023-02-25,Cash,Completed
+1747,Printer,North,,11,1064.14,11705.54,2023-06-04,PayPal,Pending
+1748,Mouse,South,David,1,1067.81,1067.81,2023-06-09,PayPal,Pending
+1749,Camera,West,,4,1198.42,4793.68,2023-04-21,Debit Card,Completed
+1750,Mouse,West,Frank,13,1515.77,19705.01,2023-05-17,Bank Transfer,Cancelled
+1751,Tablet,West,Charlie,13,1265.78,16455.14,2023-08-20,Bank Transfer,Completed
+1752,Tablet,North,Eva,13,1220.55,15867.15,2023-08-08,Debit Card,Pending
+1753,Printer,South,Eva,2,154.35,308.7,2023-03-09,Bank Transfer,Completed
+1754,Monitor,West,Alice,308,784.23,7058.07,2023-10-29,Credit Card,Completed
+1755,Headphones,North,Charlie,8,502.51,4020.08,2023-09-06,Bank Transfer,Pending
+1756,Printer,West,,7,567.47,3972.29,2023-11-19,Debit Card,Pending
+1757,Keyboard,East,Charlie,4,1130.96,4523.84,2023-01-06,Bank Transfer,Completed
+1758,Smartphone,South,Eva,18,439.04,7902.72,2023-10-07,Cash,Pending
+1759,Headphones,South,Frank,3,623.2,1869.6000000000001,2023-04-04,PayPal,Pending
+1760,Headphones,North,,6,512.32,3073.92,2023-09-26,Credit Card,Pending
+1761,Keyboard,North,Alice,12,1899.58,22794.96,2023-07-16,Cash,Pending
+1762,Keyboard,South,Eva,12,1892.1,22705.199999999997,2023-01-25,,Pending
+1763,Laptop,West,Bob,8,1239.39,9915.12,2023-05-28,Debit Card,Pending
+1764,Printer,West,Bob,1,1852.82,1852.82,2023-04-28,PayPal,Cancelled
+1765,Keyboard,East,Alice,4,1582.33,6329.32,2023-12-04,PayPal,Completed
+1766,Tablet,West,David,11,1200.4,13204.400000000001,2023-12-04,,Pending
+1767,Camera,North,Eva,3,62.55,187.64999999999998,2023-03-07,Debit Card,Completed
+1768,Smartphone,,Charlie,13,1556.41,20233.33,2023-10-28,Credit Card,Cancelled
+1769,Printer,,Alice,17,1419.85,24137.449999999997,2023-06-24,Bank Transfer,Pending
+1770,Tablet,North,David,10,1249.74,12497.4,2023-11-15,Cash,Completed
+1771,Monitor,South,Charlie,12,1532.83,18393.96,2023-03-17,,Pending
+1772,Keyboard,South,Bob,15,1050.2,15753.0,2023-04-24,Cash,Pending
+1773,Keyboard,West,Bob,10,1422.96,14229.6,2023-04-21,Debit Card,Pending
+1774,Headphones,South,Charlie,14,1873.59,26230.26,2023-09-06,Bank Transfer,Pending
+1775,Tablet,South,Alice,13,782.82,10176.66,2023-07-22,Debit Card,Pending
+1776,Headphones,East,Bob,5,1430.84,7154.2,2023-05-27,Bank Transfer,Pending
+1777,Laptop,East,Eva,6,977.59,5865.54,2023-02-04,Bank Transfer,Pending
+1778,Headphones,South,Frank,2,1365.08,2730.16,2023-11-05,Cash,Cancelled
+1779,Laptop,West,Charlie,17,1537.64,26139.88,2023-01-26,Debit Card,Cancelled
+1780,Laptop,East,Charlie,4,138.63,554.52,2023-08-26,Debit Card,Pending
+1781,Keyboard,,Bob,14,1310.87,18352.18,2023-01-14,Credit Card,Pending
+1782,Monitor,North,Alice,10,492.15,4921.5,2023-02-14,Debit Card,Cancelled
+1783,Headphones,North,Eva,3,1356.56,4069.68,2023-08-04,Credit Card,Cancelled
+1784,Tablet,West,Alice,3,963.24,2889.7200000000003,2023-08-21,PayPal,Cancelled
+1785,Laptop,South,David,15,1558.43,23376.45,2023-07-12,PayPal,Pending
+1786,Keyboard,North,David,6,290.63,1743.78,2023-02-20,PayPal,Completed
+1787,Smartphone,West,Frank,17,1271.33,21612.61,2023-08-02,Debit Card,Completed
+1788,Printer,East,Bob,12,593.02,7116.24,2023-05-31,Debit Card,Completed
+1789,Monitor,South,Bob,11,1713.31,18846.41,2023-10-02,Credit Card,Completed
+1790,Mouse,East,Bob,4,1860.35,7441.4,2023-12-04,Bank Transfer,Pending
+1791,Smartphone,West,Frank,6,1992.98,11957.880000000001,2023-03-17,Credit Card,Completed
+1792,Printer,,David,1,1602.21,1602.21,2023-08-08,PayPal,Cancelled
+1793,Smartphone,North,Alice,16,1519.78,24316.48,2023-12-14,Credit Card,Cancelled
+1794,Headphones,West,Frank,15,470.23,7053.450000000001,2023-07-06,Bank Transfer,Completed
+1795,Laptop,,Frank,17,705.21,11988.57,2023-10-16,Debit Card,Cancelled
+1796,Monitor,South,Alice,8,958.08,7664.64,2023-01-28,Credit Card,Pending
+1797,Camera,West,Bob,12,1558.09,18697.079999999998,2023-06-29,,Completed
+1798,Laptop,East,Eva,10,1834.18,18341.8,2023-09-10,PayPal,Completed
+1799,Camera,West,Alice,15,418.82,6282.3,2023-05-06,Debit Card,Pending
+1800,Printer,South,David,9,1848.62,16637.579999999998,2023-06-26,Credit Card,Cancelled
+1801,Keyboard,South,Charlie,2,1406.47,2812.94,2023-02-06,,Pending
+1802,Mouse,West,,5,6663.36,6205.0,2023-04-09,Debit Card,Pending
+1803,Tablet,,Frank,6,439.69,2638.14,2023-04-08,Credit Card,Cancelled
+1804,Laptop,North,Charlie,7,6590.88,1107.89,2023-05-07,Cash,Pending
+1805,Monitor,South,Eva,1,1158.51,1158.51,2023-06-17,PayPal,Cancelled
+1806,Smartphone,West,Bob,7,1320.46,9243.220000000001,2023-03-21,Bank Transfer,Cancelled
+1807,Monitor,West,David,12,461.02,5532.24,2023-10-21,Bank Transfer,Pending
+1808,Printer,South,Eva,16,1135.09,18161.44,2023-11-29,Bank Transfer,Cancelled
+1809,Camera,West,David,16,1720.16,27522.56,2023-05-06,PayPal,Pending
+1810,Smartphone,North,David,11,1678.38,18462.18,2023-12-09,Credit Card,Cancelled
+1811,Tablet,,Bob,4,1858.34,7433.36,2023-11-06,Debit Card,Completed
+1812,Tablet,North,Frank,13,763.48,9925.24,2023-05-30,Credit Card,Cancelled
+1813,Laptop,North,Charlie,7,670.2,4691.400000000001,2023-01-16,Debit Card,Cancelled
+1814,Printer,North,Bob,4,1511.38,6045.52,2023-01-28,Bank Transfer,Pending
+1815,Keyboard,North,Eva,15,890.67,13360.05,2023-06-22,Credit Card,Cancelled
+1816,Printer,South,Frank,19,220.72,4193.68,2023-02-15,Bank Transfer,Completed
+1817,Camera,North,Eva,9,601.46,5413.14,2023-11-24,Cash,Completed
+1818,Monitor,North,Frank,11,866.24,9528.64,2023-08-24,Bank Transfer,Cancelled
+1819,Tablet,,Eva,8,620.41,4963.28,2023-08-02,Bank Transfer,Cancelled
+1820,Monitor,South,Bob,1,697.8,697.8,2023-03-26,,Completed
+1821,Monitor,South,Frank,8,622.86,4982.88,2023-10-09,Cash,Pending
+1822,Monitor,East,Frank,13,130.92,1701.9599999999998,2023-08-20,Bank Transfer,Completed
+1823,Tablet,South,David,4,1292.33,5169.32,2023-03-26,Bank Transfer,Completed
+1824,Headphones,South,David,8,1214.72,9717.76,2023-03-06,Cash,Cancelled
+1825,Camera,East,Alice,3,1324.1,3972.2999999999997,2023-05-14,Cash,Cancelled
+1826,Camera,South,Eva,9,425.0,3825.0,2023-05-31,Credit Card,Completed
+1827,Smartphone,South,David,2,626.53,1253.06,2023-04-25,Debit Card,Pending
+1828,Printer,South,Alice,2,1258.25,2516.5,2023-03-05,Cash,Completed
+1829,Printer,South,David,13,1219.27,15850.51,2023-12-09,Cash,Completed
+1830,Mouse,East,Eva,15,1037.34,15560.099999999999,2023-12-29,PayPal,Pending
+1831,Printer,South,Frank,12,733.31,8799.72,2023-12-18,Cash,Completed
+1832,Tablet,South,Charlie,4,1830.22,7320.88,2023-06-07,Debit Card,Completed
+1833,Keyboard,East,Eva,8,712.55,5700.4,2023-03-18,Bank Transfer,Cancelled
+1834,Laptop,West,Bob,9,938.46,8446.14,2023-05-26,Bank Transfer,Pending
+1835,Mouse,North,David,5,1372.32,6861.599999999999,2023-12-09,Bank Transfer,Cancelled
+1836,Laptop,West,David,18,1108.89,19960.02,2023-08-13,Bank Transfer,Cancelled
+1837,Camera,East,Frank,11,726.43,7990.73,2023-11-09,PayPal,Pending
+1838,Laptop,,Bob,15,899.51,13492.65,2023-04-13,Cash,Pending
+1839,Laptop,East,Frank,9,1599.24,14393.16,2023-12-13,Bank Transfer,Completed
+1840,Mouse,East,Bob,17,592.35,10069.95,2023-10-28,Credit Card,Cancelled
+1841,Smartphone,South,Charlie,12,327.4,3928.7999999999997,2023-03-29,Bank Transfer,Pending
+1842,Monitor,North,David,7,660.67,4624.69,2023-10-30,Cash,Cancelled
+1843,Printer,South,David,10,1706.59,17065.899999999998,2023-06-17,Bank Transfer,Cancelled
+1844,Printer,North,Charlie,10,223.53,2235.3,2023-06-19,PayPal,Pending
+1845,Tablet,East,Alice,13,1983.81,25789.53,2023-05-15,Debit Card,Completed
+1846,Mouse,,Frank,19,1104.96,20994.24,2023-02-19,,Cancelled
+1847,Tablet,West,Charlie,11,1970.45,21674.95,2023-12-06,Cash,Pending
+1848,Keyboard,North,Frank,13,1881.04,24453.52,2023-12-13,Debit Card,Completed
+1849,Keyboard,South,Eva,8,932.99,7463.92,2023-05-14,Debit Card,Cancelled
+1850,Tablet,West,David,8,437.06,3496.48,2023-12-13,Credit Card,Pending
+1851,Mouse,West,Frank,4,371.53,1486.12,2023-05-17,Cash,Cancelled
+1852,Tablet,West,Bob,15,517.98,7769.700000000001,2023-09-02,Cash,Pending
+1853,Printer,South,Frank,11,1434.76,15782.36,2023-04-19,Debit Card,Pending
+1854,Headphones,,Eva,11,582.25,6404.75,2023-11-09,Debit Card,Cancelled
+1855,Laptop,South,David,1,715.78,715.78,2023-10-14,Debit Card,Cancelled
+1856,Headphones,West,Charlie,17,925.12,15727.04,2023-01-21,PayPal,Pending
+1857,Mouse,South,Eva,15,1830.8,27462.0,2023-03-31,,Completed
+1858,Headphones,East,David,6,419.32,2515.92,2023-10-23,PayPal,Cancelled
+1859,Keyboard,East,Frank,15,59.8,897.0,2023-04-22,Cash,Pending
+1860,Camera,East,Alice,9,167.19,1504.71,2023-10-28,Credit Card,Pending
+1861,Laptop,,Alice,14,1814.29,25400.059999999998,2023-03-18,Bank Transfer,Completed
+1862,Monitor,East,Bob,18,1312.66,23627.88,2023-06-26,Credit Card,Completed
+1863,Mouse,West,David,17,582.43,9901.31,2023-12-09,Cash,Completed
+1864,Laptop,West,Alice,18,395.53,7119.539999999999,2023-05-28,Cash,Cancelled
+1865,Headphones,West,Charlie,5,623.82,3119.1000000000004,2023-04-11,Credit Card,Pending
+1866,Keyboard,South,,9,273.85,2464.65,2023-09-03,Credit Card,Pending
+1867,Smartphone,South,Charlie,11,1885.99,20745.89,2023-04-27,Credit Card,Pending
+1868,Monitor,South,Charlie,1,1579.2,1579.2,2023-04-02,Cash,Completed
+1869,Laptop,,Alice,18,951.66,17129.88,2023-01-28,Debit Card,Pending
+1870,Keyboard,East,David,6,1736.68,10420.08,2023-01-25,Credit Card,Cancelled
+1871,Keyboard,East,Frank,2,536.44,1072.88,2023-02-27,Bank Transfer,Completed
+1872,Headphones,,,15,1448.39,21725.850000000002,2023-10-24,Cash,Completed
+1873,Printer,North,Alice,14,1719.46,24072.440000000002,2023-05-14,PayPal,Completed
+1874,Headphones,West,Alice,5,745.7,3728.5,2023-11-27,PayPal,Completed
+1875,Printer,South,Frank,6,1527.06,9162.36,2023-09-06,Bank Transfer,Cancelled
+1876,Printer,South,David,6,625.39,3752.34,2023-02-07,Debit Card,Pending
+1877,Monitor,East,David,18,632.77,11389.86,2023-03-16,Credit Card,Cancelled
+1878,Headphones,South,Charlie,14,258.76,3622.64,2023-05-22,Cash,Pending
+1879,Smartphone,South,Frank,10,908.11,9081.1,2023-11-18,Credit Card,Cancelled
+1880,Tablet,West,Frank,14,1472.94,20621.16,2023-06-17,Cash,Completed
+1881,Tablet,East,David,13,1883.43,24484.59,2023-09-16,PayPal,Completed
+1882,Headphones,West,Charlie,3,1227.4,3682.2000000000003,2023-12-21,Credit Card,Cancelled
+1883,Headphones,North,,6,1733.11,10398.66,2023-08-13,Bank Transfer,Cancelled
+1884,Monitor,North,Bob,8,1653.86,13230.88,2023-06-01,Debit Card,Pending
+1885,Headphones,North,Eva,12,388.02,4656.24,2023-01-19,Bank Transfer,Cancelled
+1886,Printer,East,Alice,13,997.34,12965.42,2023-05-26,Debit Card,Cancelled
+1887,Keyboard,South,David,11,278.0,3058.0,2023-08-29,Credit Card,Pending
+1888,Keyboard,East,Eva,12,1380.2,16562.4,2023-12-10,Credit Card,Pending
+1889,Printer,East,,1,1902.3,1902.3,2023-08-25,Debit Card,Pending
+1890,Mouse,South,Bob,17,317.32,5394.44,2023-02-04,PayPal,Cancelled
+1891,Printer,West,Charlie,16,1481.07,23697.12,2023-07-09,,Pending
+1892,Smartphone,North,Eva,11,1282.86,14111.46,2023-01-01,Bank Transfer,Completed
+1893,Camera,West,Charlie,13,1188.03,15444.39,2023-06-02,Bank Transfer,Completed
+1894,Laptop,North,Alice,18,810.73,14593.14,2023-05-06,Bank Transfer,Completed
+1895,Printer,East,Frank,11,742.51,8167.61,2023-12-11,Credit Card,Cancelled
+1896,Headphones,North,Frank,12,138.24,1658.88,2023-08-14,Bank Transfer,Completed
+1897,Headphones,East,Frank,6,474.92,2849.52,2023-08-09,Cash,Cancelled
+1898,Monitor,West,Eva,9,79.59,716.3100000000001,2023-07-30,,Cancelled
+1899,Printer,East,Frank,16,1183.76,18940.16,2023-01-25,Debit Card,Completed
+1900,Monitor,West,Alice,4,256.41,1025.64,2023-01-16,Credit Card,Pending
+1901,Printer,South,Charlie,3,1752.39,5257.17,2023-07-01,Cash,Cancelled
+1902,Laptop,South,Eva,16,1070.13,17122.08,2023-11-25,PayPal,Completed
+1903,Camera,South,Charlie,12,1414.4,16972.800000000003,2023-05-09,Credit Card,Cancelled
+1904,Keyboard,East,Eva,11,851.17,9362.869999999999,2023-02-11,Credit Card,Pending
+1905,Tablet,South,Charlie,5,1143.13,5715.650000000001,2023-12-02,Cash,Pending
+1906,Printer,North,Bob,18,1888.19,33987.42,2023-08-24,PayPal,Completed
+1907,Camera,West,Charlie,19,211.33,4015.2700000000004,2023-12-26,Debit Card,Cancelled
+1908,Keyboard,West,Frank,6,545.18,3271.08,2023-02-03,Cash,Cancelled
+1909,Mouse,North,Bob,18,1570.98,28277.64,2023-12-11,PayPal,Cancelled
+1910,Laptop,East,Charlie,308,242.54,1455.24,2023-02-14,Credit Card,Cancelled
+1911,Monitor,East,Eva,4,197.54,790.16,2023-05-14,PayPal,Completed
+1912,Monitor,West,Eva,12,755.01,9060.119999999999,2023-01-21,Credit Card,Pending
+1913,Headphones,South,Eva,19,229.73,4364.87,2023-05-02,Cash,Completed
+1914,Keyboard,East,David,2,1190.9,2381.8,2023-03-11,Cash,Cancelled
+1915,Mouse,East,Alice,17,491.24,8351.08,2023-12-18,Bank Transfer,Cancelled
+1916,Camera,North,Eva,11,1796.61,19762.71,2023-12-27,Bank Transfer,Pending
+1917,Laptop,North,Bob,11,1577.83,17356.129999999997,2023-02-17,Bank Transfer,Cancelled
+1918,Keyboard,South,Eva,16,1414.43,22630.88,2023-02-08,Cash,Completed
+1919,Mouse,East,David,2,1253.04,2506.08,2023-10-14,Debit Card,Completed
+1920,Tablet,East,Frank,2,1733.76,3467.52,2023-01-10,Cash,Pending
+1921,Printer,North,Bob,8,484.97,3879.76,2023-01-30,PayPal,Completed
+1922,Monitor,East,David,13,1752.56,22783.28,2023-09-01,,Completed
+1923,Camera,West,Frank,10,1589.51,15895.1,2023-10-01,Cash,Completed
+1924,Monitor,North,Bob,8,1508.91,12071.28,2023-03-29,Credit Card,Completed
+1925,Camera,South,Charlie,4,1144.45,4577.8,2023-09-01,Credit Card,Cancelled
+1926,Headphones,North,Alice,15,530.18,7952.699999999999,2023-11-25,Credit Card,Completed
+1927,Camera,East,Alice,1,875.92,875.92,2023-01-15,Cash,Pending
+1928,Monitor,South,David,11,1597.46,17572.06,2023-01-04,Debit Card,Pending
+1929,Camera,North,Frank,7,111.97,783.79,2023-07-10,PayPal,Completed
+1930,Tablet,West,Alice,17,1575.0,26775.0,2023-06-17,PayPal,Pending
+1931,Headphones,West,Frank,18,518.14,9326.52,2023-01-09,Debit Card,Completed
+1932,Camera,North,Frank,12,331.4,3976.7999999999997,2023-04-19,Debit Card,Pending
+1933,Keyboard,West,David,9,275.62,2480.58,2023-05-17,PayPal,Pending
+1934,Smartphone,West,David,5,103.14,515.7,2023-06-03,Bank Transfer,Completed
+1935,Mouse,West,David,10,1070.99,10709.9,2023-07-28,Credit Card,Completed
+1936,Smartphone,South,Alice,4,475.61,1902.44,2023-09-29,Credit Card,Cancelled
+1937,Smartphone,West,David,5,1979.39,9896.95,2023-05-23,PayPal,Completed
+1938,Laptop,West,Alice,10,1170.15,11701.5,2023-04-09,Debit Card,Completed
+1939,Tablet,West,David,11,318.88,3507.68,2023-11-04,Bank Transfer,Cancelled
+1940,Keyboard,South,Eva,10,1393.09,13930.9,2023-03-10,PayPal,Completed
+1941,Printer,North,Frank,8,1800.6,14404.8,2023-09-04,Credit Card,Completed
+1942,Camera,East,David,2,1503.1,3006.2,2023-09-18,Cash,Cancelled
+1943,Mouse,West,Bob,8,199.06,1592.48,2023-10-03,Debit Card,Completed
+1944,Headphones,North,Frank,16,1796.97,28751.52,2023-03-20,Cash,Completed
+1945,Keyboard,West,Frank,5,1598.16,7990.8,2023-05-26,PayPal,Cancelled
+1946,Monitor,South,David,3,358.69,1076.07,2023-04-21,Credit Card,Cancelled
+1947,Printer,North,Charlie,12,150.98,1811.7599999999998,2023-09-15,Bank Transfer,Pending
+1948,Laptop,South,,13,1136.76,14777.88,2023-04-03,Cash,Completed
+1949,Laptop,West,Frank,13,354.27,4605.51,2023-01-13,Bank Transfer,Pending
+1950,Keyboard,West,Bob,10,1677.45,16774.5,2023-09-17,Credit Card,Pending
+1951,Smartphone,,Frank,4,748.75,2995.0,2023-04-19,Cash,Cancelled
+1952,Monitor,East,Bob,9,1830.14,16471.260000000002,2023-11-26,Bank Transfer,Completed
+1953,Laptop,South,,2,1153.09,2306.18,2023-07-08,Bank Transfer,Completed
+1954,Mouse,West,Eva,19,406.21,7717.99,2023-04-05,Cash,Cancelled
+1955,Laptop,South,Frank,1,322.22,322.22,2023-04-15,Credit Card,Pending
+1956,Headphones,East,David,7,1174.12,8218.84,2023-01-08,Bank Transfer,Cancelled
+1957,Camera,South,Alice,17,1535.67,26106.39,2023-03-08,PayPal,Completed
+1958,Laptop,East,Eva,3,1573.94,4721.82,2023-07-10,Cash,Cancelled
+1959,Headphones,East,David,3,587.73,1763.19,2023-09-13,Debit Card,Completed
+1960,Keyboard,South,Charlie,3,448.28,1344.84,2023-01-09,Debit Card,Pending
+1961,Keyboard,South,David,17,82.67,1405.39,2023-04-27,Credit Card,Completed
+1962,Printer,North,Bob,7,1374.44,9621.08,2023-09-24,PayPal,Pending
+1963,Laptop,West,Bob,14,199.31,2790.34,2023-04-09,Bank Transfer,Pending
+1964,Mouse,East,Charlie,17,870.48,14798.16,2023-10-25,,Completed
+1965,Laptop,North,Alice,18,1223.28,22019.04,2023-06-13,Credit Card,Completed
+1966,Mouse,South,Eva,13,1877.36,24405.68,2023-05-21,PayPal,Pending
+1967,Tablet,West,David,18,658.01,11844.18,2023-09-25,PayPal,Cancelled
+1968,Printer,North,Bob,4,537.06,2148.24,2023-02-06,Credit Card,Completed
+1969,Tablet,East,Alice,1,1325.61,1325.61,2023-03-15,Credit Card,Pending
+1970,Laptop,North,Charlie,18,1257.52,22635.36,2023-03-14,Bank Transfer,Pending
+1971,Printer,,Frank,1,697.61,697.61,2023-11-04,Credit Card,Cancelled
+1972,Tablet,South,,13,1859.8,24177.399999999998,2023-07-18,,Completed
+1973,Smartphone,West,Charlie,10,1697.48,16974.8,2023-05-10,Bank Transfer,Pending
+1974,Laptop,West,David,11,486.77,5354.469999999999,2023-09-03,Cash,Cancelled
+1975,Tablet,West,Eva,9,516.33,4646.97,2023-11-08,PayPal,Pending
+1976,Smartphone,South,Bob,9,1048.99,9440.91,2023-03-01,PayPal,Completed
+1977,Smartphone,East,Bob,5,1558.47,7792.35,2023-10-06,PayPal,Cancelled
+1978,Keyboard,South,David,1,135.88,135.88,2023-04-13,Cash,Pending
+1979,Laptop,West,Frank,17,1402.0,23834.0,2023-10-23,Bank Transfer,Cancelled
+1980,Smartphone,South,Alice,2,1314.06,2628.12,2023-11-16,Bank Transfer,Completed
+1981,Keyboard,South,Eva,13,501.39,6518.07,2023-12-07,Credit Card,Cancelled
+1982,Tablet,South,Bob,9,1378.64,12407.76,2023-05-31,Cash,Completed
+1983,Headphones,East,Eva,4,1883.36,7533.44,2023-06-06,Credit Card,Pending
+1984,Laptop,North,Bob,5,141.23,706.15,2023-07-25,Cash,Completed
+1985,Printer,North,Eva,11,673.32,7406.52,2023-06-28,Credit Card,Pending
+1986,Mouse,South,Charlie,19,904.44,17184.36,2023-07-16,Debit Card,Pending
+1987,Mouse,North,Bob,3,1803.56,5410.68,2023-08-11,PayPal,Completed
+1988,Tablet,North,Eva,12,1926.41,23116.920000000002,2023-03-30,PayPal,Pending
+1989,Tablet,South,Alice,19,916.02,17404.38,2023-10-14,Bank Transfer,Cancelled
+1990,Smartphone,South,Charlie,19,1512.56,28738.64,2023-10-03,Debit Card,Pending
+1991,Laptop,West,Charlie,13,1086.74,14127.62,2023-08-24,PayPal,Completed
+1992,Mouse,North,Alice,7,1098.68,7690.76,2023-07-02,Bank Transfer,Cancelled
+1993,Mouse,East,Eva,15,592.29,8884.349999999999,2023-07-28,Debit Card,Cancelled
+1994,Smartphone,South,David,7,473.06,3311.42,2023-05-10,PayPal,Pending
+1995,Mouse,West,Alice,8,611.61,4892.88,2023-06-02,Credit Card,Pending
+1996,Printer,East,Eva,5,1134.84,5674.2,2023-01-13,Cash,Completed
+1997,Laptop,North,Alice,14,106.85,1495.8999999999999,2023-05-02,Debit Card,Cancelled
+1998,Camera,West,Alice,4,1819.14,7276.56,2023-12-25,Bank Transfer,Completed
+1999,Mouse,South,Bob,10,354.75,3547.5,2023-08-08,Debit Card,Pending
+2000,Tablet,East,Eva,15,479.17,7187.55,2023-04-16,Bank Transfer,Cancelled
+1552,Keyboard,West,Charlie,13,858.89,11165.57,2023-07-29,Credit Card,Pending
+1003,Printer,East,Charlie,7,547.85,3834.9500000000003,2023-07-13,PayPal,Cancelled
+1840,Mouse,East,Bob,17,592.35,10069.95,2023-10-28,Credit Card,Cancelled
+1320,Smartphone,West,Eva,19,579.42,11008.98,2023-07-13,Bank Transfer,Cancelled
+1369,Tablet,East,Bob,13,1519.51,19753.63,2023-02-15,Debit Card,Cancelled
+1452,Keyboard,East,,19,1529.08,29052.519999999997,2023-07-07,Debit Card,Pending
+1150,Headphones,North,Bob,16,793.81,12700.96,2023-12-15,,Cancelled
+1410,Tablet,West,Bob,11,848.99,9338.89,2023-07-31,Cash,Pending
+1169,Monitor,West,Alice,4,420.14,1680.56,2023-11-07,Credit Card,Cancelled
+1225,Laptop,South,Eva,9,1785.61,16070.49,2023-06-30,Cash,Cancelled
+1674,Monitor,East,Frank,18,1253.58,22564.44,2023-09-22,,Completed
+1250,Printer,North,Bob,13,1214.34,15786.419999999998,2023-11-17,Credit Card,Cancelled
+1755,Headphones,North,Charlie,8,502.51,4020.08,2023-09-06,Bank Transfer,Pending
+1669,Tablet,North,Bob,9,1974.12,17767.079999999998,2023-06-16,Debit Card,Completed
+1986,Mouse,South,Charlie,19,904.44,17184.36,2023-07-16,Debit Card,Pending
+1705,Tablet,North,Bob,10,1389.73,13897.3,2023-12-09,Cash,Completed
+1737,Monitor,West,David,13,542.96,7058.4800000000005,2023-05-21,Cash,Cancelled
+1426,Monitor,East,Charlie,3,1887.96,5663.88,2023-12-03,Bank Transfer,Cancelled
+1937,Smartphone,West,David,5,1979.39,9896.95,2023-05-23,PayPal,Completed
+1839,Laptop,East,Frank,9,1599.24,14393.16,2023-12-13,Bank Transfer,Completed
+1352,Monitor,North,Eva,5,1287.55,6437.75,2023-10-21,Cash,Pending
+1846,Mouse,,Frank,19,1104.96,20994.24,2023-02-19,,Cancelled
+1770,Tablet,North,David,10,1249.74,12497.4,2023-11-15,Cash,Completed
+1599,Monitor,South,Alice,8,937.0,7496.0,2023-03-07,PayPal,Pending
+1470,Mouse,West,Alice,13,1439.92,18718.96,2023-07-30,Credit Card,Cancelled
+1982,Tablet,South,Bob,9,1378.64,12407.76,2023-05-31,Cash,Completed
+1136,Mouse,East,Eva,2,811.83,1623.66,2023-05-21,Cash,Completed
+1703,Smartphone,East,Bob,17,1329.31,22598.27,2023-02-14,Cash,Completed
+2000,Tablet,East,Eva,15,479.17,7187.55,2023-04-16,Bank Transfer,Cancelled
+1809,Camera,West,David,16,1720.16,27522.56,2023-05-06,PayPal,Pending
