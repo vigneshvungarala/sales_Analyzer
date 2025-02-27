@@ -70,3 +70,7 @@ Predictive analytics for sales forecasting.
 
 Feel free to fork the repository, create new branches, and submit pull requests for improvements.
 
+## License
+
+This project is licensed under the MIT License.
+
